@@ -1,0 +1,7876 @@
+[
+  {
+    "baseLevel": 1,
+    "difficulty": 19,
+    "durability": 60,
+    "id": "6a2926cbf43",
+    "level": 1,
+    "maxQuality": 312,
+    "name": {
+      "en": "Bladder Component"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 1,
+    "difficulty": 28,
+    "durability": 60,
+    "id": "23f4113343d",
+    "level": 1,
+    "maxQuality": 234,
+    "name": {
+      "en": "Bladder Lining Component"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 1,
+    "difficulty": 19,
+    "durability": 60,
+    "id": "a563850b403",
+    "level": 1,
+    "maxQuality": 312,
+    "name": {
+      "en": "Hull Interior Component"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 1,
+    "difficulty": 9,
+    "durability": 40,
+    "id": "01d6e742818",
+    "level": 1,
+    "maxQuality": 312,
+    "name": {
+      "en": "Larboard Hull Component"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 1,
+    "difficulty": 9,
+    "durability": 40,
+    "id": "68cf4492c3b",
+    "level": 1,
+    "maxQuality": 312,
+    "name": {
+      "en": "Maple Syrup"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 1,
+    "difficulty": 19,
+    "durability": 60,
+    "id": "3df8b67da0b",
+    "level": 1,
+    "maxQuality": 312,
+    "name": {
+      "en": "Starboard Hull Component"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 1,
+    "difficulty": 9,
+    "durability": 40,
+    "id": "daf1f9dc38c",
+    "level": 1,
+    "maxQuality": 312,
+    "name": {
+      "en": "Table Salt"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 2,
+    "difficulty": 10,
+    "durability": 40,
+    "id": "665373312df",
+    "level": 2,
+    "maxQuality": 325,
+    "name": {
+      "en": "Maple Sugar"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 3,
+    "difficulty": 20,
+    "durability": 60,
+    "id": "8cf29a732ca",
+    "level": 3,
+    "maxQuality": 339,
+    "name": {
+      "en": "Boiled Egg"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 3,
+    "difficulty": 30,
+    "durability": 60,
+    "id": "829bd5227f5",
+    "level": 3,
+    "maxQuality": 254,
+    "name": {
+      "en": "Crafting Tool Component"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 3,
+    "difficulty": 30,
+    "durability": 60,
+    "id": "3daecc7ccd7",
+    "level": 3,
+    "maxQuality": 254,
+    "name": {
+      "en": "Deck Component"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 3,
+    "difficulty": 10,
+    "durability": 40,
+    "id": "2de5ab37b20",
+    "level": 3,
+    "maxQuality": 339,
+    "name": {
+      "en": "Engine Casing Component"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 3,
+    "difficulty": 20,
+    "durability": 60,
+    "id": "a6583bc4fac",
+    "level": 3,
+    "maxQuality": 339,
+    "name": {
+      "en": "Gyrodrive Component"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 3,
+    "difficulty": 30,
+    "durability": 60,
+    "id": "9be78c91d95",
+    "level": 3,
+    "maxQuality": 254,
+    "name": {
+      "en": "Propulsion Engine Component"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 3,
+    "difficulty": 10,
+    "durability": 40,
+    "id": "2b97a4a206e",
+    "level": 3,
+    "maxQuality": 339,
+    "name": {
+      "en": "Raisins"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 3,
+    "difficulty": 36,
+    "durability": 60,
+    "id": "af1b351f3d1",
+    "level": 3,
+    "maxQuality": 169,
+    "name": {
+      "en": "Rigging Component"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 4,
+    "difficulty": 21,
+    "durability": 60,
+    "id": "fb965727d06",
+    "level": 4,
+    "maxQuality": 352,
+    "name": {
+      "en": "Frumenty"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 4,
+    "difficulty": 10,
+    "durability": 40,
+    "id": "ac8791c6448",
+    "level": 4,
+    "maxQuality": 352,
+    "name": {
+      "en": "Honey"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 4,
+    "difficulty": 10,
+    "durability": 40,
+    "id": "f843fe0723c",
+    "level": 4,
+    "maxQuality": 352,
+    "name": {
+      "en": "Rye Flour"
+    },
+    "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 5,
+    "difficulty": 33,
+    "durability": 60,
+    "id": "2fcab565977",
+    "level": 5,
+    "maxQuality": 451,
+    "name": {
+      "en": "Battered Fish"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 5,
+    "difficulty": 33,
+    "durability": 60,
+    "id": "4ee6ee4689c",
+    "level": 5,
+    "maxQuality": 451,
+    "name": {
+      "en": "Crayfish Ball"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 5,
+    "difficulty": 16,
+    "durability": 40,
+    "id": "acbcceea029",
+    "level": 5,
+    "maxQuality": 451,
+    "name": {
+      "en": "Fishmeal"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 5,
+    "difficulty": 33,
+    "durability": 60,
+    "id": "3a97f885b90",
+    "level": 5,
+    "maxQuality": 451,
+    "name": {
+      "en": "Flatbread"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 5,
+    "difficulty": 33,
+    "durability": 60,
+    "id": "63da58816ee",
+    "level": 5,
+    "maxQuality": 451,
+    "name": {
+      "en": "Grilled Trout"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 5,
+    "difficulty": 33,
+    "durability": 60,
+    "id": "b7a74d37952",
+    "level": 5,
+    "maxQuality": 451,
+    "name": {
+      "en": "Marmot Steak"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 5,
+    "difficulty": 33,
+    "durability": 60,
+    "id": "fd2bdf94c22",
+    "level": 5,
+    "maxQuality": 451,
+    "name": {
+      "en": "Rolanberry Shaved Ice"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 6,
+    "difficulty": 36,
+    "durability": 60,
+    "id": "c9f756f0dd7",
+    "level": 6,
+    "maxQuality": 474,
+    "name": {
+      "en": "Aerodynamo Component"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 6,
+    "difficulty": 36,
+    "durability": 60,
+    "id": "b71eaa67641",
+    "level": 6,
+    "maxQuality": 474,
+    "name": {
+      "en": "Ballast Component"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 6,
+    "difficulty": 18,
+    "durability": 40,
+    "id": "97747c6d57a",
+    "level": 6,
+    "maxQuality": 474,
+    "name": {
+      "en": "Cockpit Exterior Component"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 6,
+    "difficulty": 18,
+    "durability": 40,
+    "id": "6078cfe53f7",
+    "level": 6,
+    "maxQuality": 474,
+    "name": {
+      "en": "Cockpit Interior Component"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 6,
+    "difficulty": 18,
+    "durability": 40,
+    "id": "c5ca4821b43",
+    "level": 6,
+    "maxQuality": 474,
+    "name": {
+      "en": "Engine Jointing Component"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 6,
+    "difficulty": 115,
+    "durability": 60,
+    "id": "6d34a44d7e0",
+    "level": 6,
+    "maxQuality": 237,
+    "name": {
+      "en": "Instrument Panel Component"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 6,
+    "difficulty": 36,
+    "durability": 60,
+    "id": "624701d08cb",
+    "level": 6,
+    "maxQuality": 474,
+    "name": {
+      "en": "Orange Juice"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 6,
+    "difficulty": 18,
+    "durability": 40,
+    "id": "e7e35e08034",
+    "level": 6,
+    "maxQuality": 474,
+    "name": {
+      "en": "Sweet Cream"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 7,
+    "difficulty": 18,
+    "durability": 40,
+    "id": "4a13b36c6de",
+    "level": 7,
+    "maxQuality": 492,
+    "name": {
+      "en": "Smooth Butter"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 7,
+    "difficulty": 18,
+    "durability": 40,
+    "id": "43485a05776",
+    "level": 7,
+    "maxQuality": 492,
+    "name": {
+      "en": "Sunset Wheat Flour"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 7,
+    "difficulty": 37,
+    "durability": 60,
+    "id": "c9a51f5c495",
+    "level": 7,
+    "maxQuality": 492,
+    "name": {
+      "en": "Tree Toad Legs"
+    },
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 8,
+    "difficulty": 41,
+    "durability": 60,
+    "id": "c389f56912b",
+    "level": 8,
+    "maxQuality": 526,
+    "name": {
+      "en": "Braised Pipira"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 8,
+    "difficulty": 41,
+    "durability": 60,
+    "id": "6e16365bf97",
+    "level": 8,
+    "maxQuality": 526,
+    "name": {
+      "en": "Chanterelle Saute"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 9,
+    "difficulty": 42,
+    "durability": 60,
+    "id": "f173b1ee888",
+    "level": 9,
+    "maxQuality": 545,
+    "name": {
+      "en": "Boiled Crayfish"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 9,
+    "difficulty": 42,
+    "durability": 60,
+    "id": "b73b172edc2",
+    "level": 9,
+    "maxQuality": 545,
+    "name": {
+      "en": "Mutton Stew"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 10,
+    "difficulty": 45,
+    "durability": 60,
+    "id": "738c1233aee",
+    "level": 10,
+    "maxQuality": 629,
+    "name": {
+      "en": "Goby Ball"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 10,
+    "difficulty": 144,
+    "durability": 60,
+    "id": "b37e7cd07fb",
+    "level": 10,
+    "maxQuality": 314,
+    "name": {
+      "en": "Heat Vent Component"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 10,
+    "difficulty": 45,
+    "durability": 60,
+    "id": "ebf3643aea3",
+    "level": 10,
+    "maxQuality": 629,
+    "name": {
+      "en": "Jack-o'-lantern"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 10,
+    "difficulty": 22,
+    "durability": 40,
+    "id": "98bfb6de215",
+    "level": 10,
+    "maxQuality": 629,
+    "name": {
+      "en": "Kukuru Butter"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 10,
+    "difficulty": 22,
+    "durability": 40,
+    "id": "6155181a62d",
+    "level": 10,
+    "maxQuality": 629,
+    "name": {
+      "en": "Larboard Wing Component"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 10,
+    "difficulty": 67,
+    "durability": 60,
+    "id": "ad81a3b2d69",
+    "level": 10,
+    "maxQuality": 471,
+    "name": {
+      "en": "Larboard Wing Control Component"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 10,
+    "difficulty": 45,
+    "durability": 60,
+    "id": "5830985a21f",
+    "level": 10,
+    "maxQuality": 629,
+    "name": {
+      "en": "Mint Lassi"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 10,
+    "difficulty": 22,
+    "durability": 40,
+    "id": "644de2e7c1a",
+    "level": 10,
+    "maxQuality": 629,
+    "name": {
+      "en": "Starboard Wing Component"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 10,
+    "difficulty": 67,
+    "durability": 60,
+    "id": "57fc70ee36a",
+    "level": 10,
+    "maxQuality": 471,
+    "name": {
+      "en": "Starboard Wing Control Component"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 10,
+    "difficulty": 144,
+    "durability": 60,
+    "id": "cead6a9f4a6",
+    "level": 10,
+    "maxQuality": 314,
+    "name": {
+      "en": "Transmission Component"
+    },
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 11,
+    "difficulty": 48,
+    "durability": 60,
+    "id": "4472e7f6114",
+    "level": 11,
+    "maxQuality": 665,
+    "name": {
+      "en": "Grilled Dodo"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 11,
+    "difficulty": 24,
+    "durability": 40,
+    "id": "6fc4eac72ad",
+    "level": 11,
+    "maxQuality": 665,
+    "name": {
+      "en": "Kukuru Powder"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 11,
+    "difficulty": 24,
+    "durability": 40,
+    "id": "128461ebcb4",
+    "level": 11,
+    "maxQuality": 665,
+    "name": {
+      "en": "Olive Oil"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 12,
+    "difficulty": 53,
+    "durability": 60,
+    "id": "236f009e812",
+    "level": 12,
+    "maxQuality": 702,
+    "name": {
+      "en": "Bubble Chocolate"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 12,
+    "difficulty": 53,
+    "durability": 60,
+    "id": "37fe1346240",
+    "level": 12,
+    "maxQuality": 702,
+    "name": {
+      "en": "Pearl Chocolate"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 12,
+    "difficulty": 26,
+    "durability": 40,
+    "id": "94d1fa1e034",
+    "level": 12,
+    "maxQuality": 702,
+    "name": {
+      "en": "Tomato Sauce"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 13,
+    "difficulty": 54,
+    "durability": 60,
+    "id": "1dd4a18bb5a",
+    "level": 13,
+    "maxQuality": 726,
+    "name": {
+      "en": "Mole Loaf"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 13,
+    "difficulty": 54,
+    "durability": 60,
+    "id": "2729f1d6e32",
+    "level": 13,
+    "maxQuality": 726,
+    "name": {
+      "en": "Parsnip Salad"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 14,
+    "difficulty": 27,
+    "durability": 40,
+    "id": "48fb1e7634b",
+    "level": 14,
+    "maxQuality": 751,
+    "name": {
+      "en": "Gelatin"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 14,
+    "difficulty": 27,
+    "durability": 40,
+    "id": "6a8be6bc99c",
+    "level": 14,
+    "maxQuality": 751,
+    "name": {
+      "en": "Pie Dough"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 14,
+    "difficulty": 54,
+    "durability": 60,
+    "id": "058f1285937",
+    "level": 14,
+    "maxQuality": 751,
+    "name": {
+      "en": "Rabbit Pie"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 15,
+    "difficulty": 176,
+    "durability": 70,
+    "id": "c048e13458a",
+    "level": 15,
+    "maxQuality": 403,
+    "name": {
+      "en": "Ceruleum Tank Component"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 15,
+    "difficulty": 176,
+    "durability": 70,
+    "id": "703016031fa",
+    "level": 15,
+    "maxQuality": 403,
+    "name": {
+      "en": "Disposal Unit Component"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 15,
+    "difficulty": 99,
+    "durability": 70,
+    "id": "8e1e6f888d4",
+    "level": 15,
+    "maxQuality": 1452,
+    "name": {
+      "en": "Exhaust Outlet Component"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 15,
+    "difficulty": 55,
+    "durability": 70,
+    "id": "405312d19a1",
+    "level": 15,
+    "maxQuality": 807,
+    "name": {
+      "en": "Grilled Carp"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 15,
+    "difficulty": 99,
+    "durability": 70,
+    "id": "c6984e2884a",
+    "level": 15,
+    "maxQuality": 1452,
+    "name": {
+      "en": "Helm Component"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 15,
+    "difficulty": 27,
+    "durability": 40,
+    "id": "6c5a6e3cc28",
+    "level": 15,
+    "maxQuality": 807,
+    "name": {
+      "en": "Lamp Component"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 15,
+    "difficulty": 55,
+    "durability": 70,
+    "id": "f5f840fcf4b",
+    "level": 15,
+    "maxQuality": 807,
+    "name": {
+      "en": "Salt Cod"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 15,
+    "difficulty": 82,
+    "durability": 70,
+    "id": "bdc835a52dc",
+    "level": 15,
+    "maxQuality": 605,
+    "name": {
+      "en": "Speaking Tube Component"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 15,
+    "difficulty": 82,
+    "durability": 70,
+    "id": "5abc90c95e3",
+    "level": 15,
+    "maxQuality": 605,
+    "name": {
+      "en": "Steering Mechanism Component"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 15,
+    "difficulty": 55,
+    "durability": 70,
+    "id": "c2c442c63f2",
+    "level": 15,
+    "maxQuality": 403,
+    "name": {
+      "en": "Wax Vegetables"
+    },
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 16,
+    "difficulty": 63,
+    "durability": 70,
+    "id": "c4419b131e1",
+    "level": 16,
+    "maxQuality": 866,
+    "name": {
+      "en": "Auxiliary Aerodynamo Component"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 16,
+    "difficulty": 31,
+    "durability": 40,
+    "id": "7e3b8c4744f",
+    "level": 16,
+    "maxQuality": 866,
+    "name": {
+      "en": "Cider Vinegar"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 16,
+    "difficulty": 201,
+    "durability": 70,
+    "id": "c951a4e1346",
+    "level": 16,
+    "maxQuality": 433,
+    "name": {
+      "en": "Decorative Plating Component"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 16,
+    "difficulty": 63,
+    "durability": 70,
+    "id": "70e8f771b36",
+    "level": 16,
+    "maxQuality": 866,
+    "name": {
+      "en": "Dodo Omelette"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 16,
+    "difficulty": 113,
+    "durability": 70,
+    "id": "cf21791d372",
+    "level": 16,
+    "maxQuality": 1558,
+    "name": {
+      "en": "Escape Flyer Component"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 16,
+    "difficulty": 201,
+    "durability": 70,
+    "id": "57b9bd3a9fd",
+    "level": 16,
+    "maxQuality": 433,
+    "name": {
+      "en": "Hyperconductor Component"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 16,
+    "difficulty": 63,
+    "durability": 70,
+    "id": "8207083b3b9",
+    "level": 16,
+    "maxQuality": 866,
+    "name": {
+      "en": "Isolator Component"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 16,
+    "difficulty": 31,
+    "durability": 40,
+    "id": "ae1345dcf27",
+    "level": 16,
+    "maxQuality": 866,
+    "name": {
+      "en": "Lavender Oil"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 16,
+    "difficulty": 63,
+    "durability": 70,
+    "id": "7ba574f8109",
+    "level": 16,
+    "maxQuality": 866,
+    "name": {
+      "en": "Meat Miq'abob"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 16,
+    "difficulty": 31,
+    "durability": 40,
+    "id": "bd9a22ac245",
+    "level": 16,
+    "maxQuality": 866,
+    "name": {
+      "en": "Refabrication Component"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 16,
+    "difficulty": 201,
+    "durability": 70,
+    "id": "b9df6dfa580",
+    "level": 16,
+    "maxQuality": 433,
+    "name": {
+      "en": "Spare Tank Component"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 17,
+    "difficulty": 33,
+    "durability": 40,
+    "id": "3e6530089f8",
+    "level": 17,
+    "maxQuality": 898,
+    "name": {
+      "en": "Cottage Cheese"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 17,
+    "difficulty": 66,
+    "durability": 70,
+    "id": "b124b7b5a15",
+    "level": 17,
+    "maxQuality": 898,
+    "name": {
+      "en": "Lentils and Chestnuts"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 17,
+    "difficulty": 66,
+    "durability": 70,
+    "id": "ec5c9dc53d2",
+    "level": 17,
+    "maxQuality": 898,
+    "name": {
+      "en": "Roasted Nopales"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 17,
+    "difficulty": 66,
+    "durability": 70,
+    "id": "2c24c0c440c",
+    "level": 17,
+    "maxQuality": 449,
+    "name": {
+      "en": "Sandwich Basket"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 17,
+    "difficulty": 66,
+    "durability": 70,
+    "id": "1758bc0e28b",
+    "level": 17,
+    "maxQuality": 898,
+    "name": {
+      "en": "Stone Soup"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 18,
+    "difficulty": 67,
+    "durability": 70,
+    "id": "19f9e72452a",
+    "level": 18,
+    "maxQuality": 939,
+    "name": {
+      "en": "Apple Tart"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 18,
+    "difficulty": 214,
+    "durability": 70,
+    "id": "94e5981622d",
+    "level": 18,
+    "maxQuality": 469,
+    "name": {
+      "en": "Figurehead Component"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 18,
+    "difficulty": 120,
+    "durability": 70,
+    "id": "3e412c89820",
+    "level": 18,
+    "maxQuality": 1690,
+    "name": {
+      "en": "Finishing Component"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 18,
+    "difficulty": 67,
+    "durability": 70,
+    "id": "21d7f13f060",
+    "level": 18,
+    "maxQuality": 939,
+    "name": {
+      "en": "Walnut Bread"
+    },
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 19,
+    "difficulty": 68,
+    "durability": 70,
+    "id": "90da2cb42f3",
+    "level": 19,
+    "maxQuality": 982,
+    "name": {
+      "en": "Raw Oyster"
+    },
+    "suggestedCraftsmanship": 82
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 70,
+    "id": "7fb00c10f5d",
+    "level": 20,
+    "maxQuality": 1053,
+    "name": {
+      "en": "Antelope Stew"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 70,
+    "id": "79d4f6a50d1",
+    "level": 20,
+    "maxQuality": 1053,
+    "name": {
+      "en": "Chicken and Mushrooms"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 70,
+    "id": "3f645586478",
+    "level": 20,
+    "maxQuality": 1053,
+    "name": {
+      "en": "Crab Ball"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 60,
+    "id": "12a731edc45",
+    "level": 20,
+    "maxQuality": 1263,
+    "name": {
+      "en": "Grade 2 Skybuilders' Hemp Milk"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 60,
+    "id": "287217ce056",
+    "level": 20,
+    "maxQuality": 1263,
+    "name": {
+      "en": "Grade 3 Skybuilders' Hemp Milk"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 60,
+    "id": "89267d03601",
+    "level": 20,
+    "maxQuality": 1263,
+    "name": {
+      "en": "Grade 4 Skybuilders' Hemp Milk"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 70,
+    "id": "bb677be8925",
+    "level": 20,
+    "maxQuality": 1053,
+    "name": {
+      "en": "Grilled Warmwater Trout"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 60,
+    "id": "bedc65dc6c1",
+    "level": 20,
+    "maxQuality": 1263,
+    "name": {
+      "en": "Skybuilders' Hemp Milk"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 70,
+    "id": "974b6fb72ee",
+    "level": 20,
+    "maxQuality": 526,
+    "name": {
+      "en": "Starlight Dodo"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 21,
+    "difficulty": 75,
+    "durability": 70,
+    "id": "28e4cde9b0b",
+    "level": 21,
+    "maxQuality": 1090,
+    "name": {
+      "en": "Antelope Steak"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 21,
+    "difficulty": 75,
+    "durability": 70,
+    "id": "6f0e5c52506",
+    "level": 21,
+    "maxQuality": 1090,
+    "name": {
+      "en": "Grape Juice"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 21,
+    "difficulty": 75,
+    "durability": 70,
+    "id": "97aa24e04c3",
+    "level": 21,
+    "maxQuality": 1090,
+    "name": {
+      "en": "Honey Muffin"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 21,
+    "difficulty": 75,
+    "durability": 70,
+    "id": "0425503be63",
+    "level": 21,
+    "maxQuality": 1090,
+    "name": {
+      "en": "Mashed Popotoes"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 22,
+    "difficulty": 75,
+    "durability": 70,
+    "id": "22ab77a50bd",
+    "level": 22,
+    "maxQuality": 1122,
+    "name": {
+      "en": "Dried Plums"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 22,
+    "difficulty": 75,
+    "durability": 70,
+    "id": "7a4d7d9ad12",
+    "level": 22,
+    "maxQuality": 1122,
+    "name": {
+      "en": "Mustard Eggs"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 22,
+    "difficulty": 75,
+    "durability": 70,
+    "id": "52f5d963d0d",
+    "level": 22,
+    "maxQuality": 1122,
+    "name": {
+      "en": "Spinach Saute"
+    },
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 23,
+    "difficulty": 79,
+    "durability": 70,
+    "id": "71481307dd9",
+    "level": 23,
+    "maxQuality": 1169,
+    "name": {
+      "en": "Dark Pretzel"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 23,
+    "difficulty": 79,
+    "durability": 70,
+    "id": "2ed58fd9341",
+    "level": 23,
+    "maxQuality": 1169,
+    "name": {
+      "en": "Salmon Meuniere"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 23,
+    "difficulty": 79,
+    "durability": 70,
+    "id": "c1b65d6df5b",
+    "level": 23,
+    "maxQuality": 1169,
+    "name": {
+      "en": "Shepherd's Pie"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 24,
+    "difficulty": 85,
+    "durability": 70,
+    "id": "2faf45bc967",
+    "level": 24,
+    "maxQuality": 1239,
+    "name": {
+      "en": "Chamomile Tea"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 25,
+    "difficulty": 89,
+    "durability": 70,
+    "id": "ae6238806e7",
+    "level": 25,
+    "maxQuality": 1296,
+    "name": {
+      "en": "Bass Ball"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 25,
+    "difficulty": 89,
+    "durability": 70,
+    "id": "10c855e59d8",
+    "level": 25,
+    "maxQuality": 1296,
+    "name": {
+      "en": "Eel Pie"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 25,
+    "difficulty": 89,
+    "durability": 70,
+    "id": "5baed9b7bd2",
+    "level": 25,
+    "maxQuality": 648,
+    "name": {
+      "en": "Riviera Supper"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 26,
+    "difficulty": 90,
+    "durability": 70,
+    "id": "44292bc629a",
+    "level": 26,
+    "maxQuality": 1332,
+    "name": {
+      "en": "Aldgoat Steak"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 26,
+    "difficulty": 90,
+    "durability": 70,
+    "id": "c3cc1280f58",
+    "level": 26,
+    "maxQuality": 1332,
+    "name": {
+      "en": "Ginger Cookie"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 26,
+    "difficulty": 90,
+    "durability": 70,
+    "id": "878ed2ccb78",
+    "level": 26,
+    "maxQuality": 1332,
+    "name": {
+      "en": "Pea Soup"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 27,
+    "difficulty": 91,
+    "durability": 70,
+    "id": "1aaab7fe4fd",
+    "level": 27,
+    "maxQuality": 1368,
+    "name": {
+      "en": "Boiled Bream"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 27,
+    "difficulty": 91,
+    "durability": 70,
+    "id": "32f2eeeeddf",
+    "level": 27,
+    "maxQuality": 684,
+    "name": {
+      "en": "Bowl of Oden"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 27,
+    "difficulty": 91,
+    "durability": 70,
+    "id": "e5f3a5e4ad9",
+    "level": 27,
+    "maxQuality": 1368,
+    "name": {
+      "en": "Cheese Risotto"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 27,
+    "difficulty": 91,
+    "durability": 70,
+    "id": "98728df863f",
+    "level": 27,
+    "maxQuality": 1368,
+    "name": {
+      "en": "Fried Egg"
+    },
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 28,
+    "difficulty": 50,
+    "durability": 40,
+    "id": "a4c382b081e",
+    "level": 28,
+    "maxQuality": 1498,
+    "name": {
+      "en": "Chicken Stock"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 28,
+    "difficulty": 100,
+    "durability": 70,
+    "id": "e9691733ca5",
+    "level": 28,
+    "maxQuality": 1498,
+    "name": {
+      "en": "Crumpet"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 28,
+    "difficulty": 100,
+    "durability": 70,
+    "id": "508aa31bc2e",
+    "level": 28,
+    "maxQuality": 1498,
+    "name": {
+      "en": "Orobon Stew"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 29,
+    "difficulty": 50,
+    "durability": 40,
+    "id": "4b5ca15c87f",
+    "level": 29,
+    "maxQuality": 1544,
+    "name": {
+      "en": "Cornmeal"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "458ed9b190a",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Abyssal Blue Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 102,
+    "durability": 70,
+    "id": "b370bddffbc",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Baked Sole"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "181d44a339a",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Celeste Green Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 102,
+    "durability": 70,
+    "id": "737b5906178",
+    "level": 30,
+    "maxQuality": 792,
+    "name": {
+      "en": "Chilled Red"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "10aa2e4b1b7",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Colibri Pink Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "7c735f26b62",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Dalamud Red Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "e49c377bf3c",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Deepwood Green Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "ecb2295345a",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Grade 1 Feed - Acceleration Blend"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "357daa10a87",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Grade 1 Feed - Balance Blend"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "6dfec66fd35",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Grade 1 Feed - Endurance Blend"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "af2b97b6769",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Grade 1 Feed - Speed Blend"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "1641b8e3f3e",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Grade 1 Feed - Stamina Blend"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "73db0ad0833",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Honey Yellow Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "660e943b663",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Hunter Green Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "03e74497e0c",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Kobold Brown Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "6c2f3dc9005",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Loam Brown Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "356d1e64797",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Lotus Pink Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "2b7c8f2d807",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Millioncorn Yellow Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "08e4c0c323c",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Morbol Green Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "9133d1585fb",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Ochu Green Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "8ade7272c3d",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Othard Blue Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "fb032e3e094",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Plum Purple Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "499784274aa",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Pumpkin Orange Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "b0699976a4e",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Regal Purple Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "dbbb9db11bc",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Royal Blue Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "7596a7f156b",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Snow White Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "b77647f8e13",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Soot Black Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "e6b0a1d137e",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Storm Blue Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "1896523c005",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Sunset Orange Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "b66858fd774",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Void Blue Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "30d200cd6d9",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Wine Red Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "id": "c709cb547a1",
+    "level": 30,
+    "maxQuality": 1584,
+    "name": {
+      "en": "Woad Blue Dye"
+    },
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 31,
+    "difficulty": 106,
+    "durability": 80,
+    "id": "f3db002ef03",
+    "level": 31,
+    "maxQuality": 1670,
+    "name": {
+      "en": "Alligator Salad"
+    },
+    "suggestedCraftsmanship": 121
+  },
+  {
+    "baseLevel": 31,
+    "difficulty": 106,
+    "durability": 80,
+    "id": "ae86b58666a",
+    "level": 31,
+    "maxQuality": 1670,
+    "name": {
+      "en": "Cornbread"
+    },
+    "suggestedCraftsmanship": 121
+  },
+  {
+    "baseLevel": 31,
+    "difficulty": 53,
+    "durability": 40,
+    "id": "7580d3191a7",
+    "level": 31,
+    "maxQuality": 1670,
+    "name": {
+      "en": "Dark Vinegar"
+    },
+    "suggestedCraftsmanship": 121
+  },
+  {
+    "baseLevel": 32,
+    "difficulty": 110,
+    "durability": 80,
+    "id": "731c5b1f613",
+    "level": 32,
+    "maxQuality": 1697,
+    "name": {
+      "en": "Forest Miq'abob"
+    },
+    "suggestedCraftsmanship": 121
+  },
+  {
+    "baseLevel": 32,
+    "difficulty": 110,
+    "durability": 80,
+    "id": "9e19cd2b0fe",
+    "level": 32,
+    "maxQuality": 848,
+    "name": {
+      "en": "Pot of Cream Stew"
+    },
+    "suggestedCraftsmanship": 121
+  },
+  {
+    "baseLevel": 32,
+    "difficulty": 110,
+    "durability": 80,
+    "id": "64ab4add9e0",
+    "level": 32,
+    "maxQuality": 1697,
+    "name": {
+      "en": "Smoked Raptor"
+    },
+    "suggestedCraftsmanship": 121
+  },
+  {
+    "baseLevel": 33,
+    "difficulty": 111,
+    "durability": 80,
+    "id": "648f790d5c1",
+    "level": 33,
+    "maxQuality": 1757,
+    "name": {
+      "en": "Blood Currant Tart"
+    },
+    "suggestedCraftsmanship": 121
+  },
+  {
+    "baseLevel": 33,
+    "difficulty": 111,
+    "durability": 80,
+    "id": "3d92748fba4",
+    "level": 33,
+    "maxQuality": 1757,
+    "name": {
+      "en": "Tuna Miq'abob"
+    },
+    "suggestedCraftsmanship": 121
+  },
+  {
+    "baseLevel": 34,
+    "difficulty": 115,
+    "durability": 80,
+    "id": "6313bdb0f6e",
+    "level": 34,
+    "maxQuality": 1811,
+    "name": {
+      "en": "Acorn Cookie"
+    },
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 34,
+    "difficulty": 115,
+    "durability": 80,
+    "id": "370f19e732e",
+    "level": 34,
+    "maxQuality": 1811,
+    "name": {
+      "en": "Scrambled Eggs"
+    },
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 35,
+    "difficulty": 123,
+    "durability": 80,
+    "id": "468a4a3c215",
+    "level": 35,
+    "maxQuality": 1853,
+    "name": {
+      "en": "Cawl Cennin"
+    },
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 35,
+    "difficulty": 123,
+    "durability": 80,
+    "id": "e4cdeacdbf4",
+    "level": 35,
+    "maxQuality": 926,
+    "name": {
+      "en": "Glade Tea Set"
+    },
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 35,
+    "difficulty": 123,
+    "durability": 80,
+    "id": "0ab5cb31987",
+    "level": 35,
+    "maxQuality": 1853,
+    "name": {
+      "en": "Herring Ball"
+    },
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 36,
+    "difficulty": 62,
+    "durability": 40,
+    "id": "73b35fcc8d3",
+    "level": 36,
+    "maxQuality": 1882,
+    "name": {
+      "en": "Cream Cheese"
+    },
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 36,
+    "difficulty": 124,
+    "durability": 80,
+    "id": "049bb93803d",
+    "level": 36,
+    "maxQuality": 1882,
+    "name": {
+      "en": "Sauerkraut"
+    },
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 37,
+    "difficulty": 128,
+    "durability": 80,
+    "id": "d1c78ceddd5",
+    "level": 37,
+    "maxQuality": 1905,
+    "name": {
+      "en": "Cheese Souffle"
+    },
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 37,
+    "difficulty": 128,
+    "durability": 80,
+    "id": "450cc217917",
+    "level": 37,
+    "maxQuality": 1905,
+    "name": {
+      "en": "Ratatouille"
+    },
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 38,
+    "difficulty": 129,
+    "durability": 80,
+    "id": "d6e8e88f0b4",
+    "level": 38,
+    "maxQuality": 1961,
+    "name": {
+      "en": "Knight's Bread"
+    },
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 38,
+    "difficulty": 129,
+    "durability": 80,
+    "id": "3a1f0b46663",
+    "level": 38,
+    "maxQuality": 1961,
+    "name": {
+      "en": "Mugwort Carp"
+    },
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 39,
+    "difficulty": 137,
+    "durability": 80,
+    "id": "e1a21cbf625",
+    "level": 39,
+    "maxQuality": 2026,
+    "name": {
+      "en": "Raptor Stew"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 39,
+    "difficulty": 137,
+    "durability": 80,
+    "id": "68606a79330",
+    "level": 39,
+    "maxQuality": 2026,
+    "name": {
+      "en": "Stuffed Artichoke"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 80,
+    "id": "28bfed79c35",
+    "level": 40,
+    "maxQuality": 2050,
+    "name": {
+      "en": "Apple Juice"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 80,
+    "id": "13f7d793e42",
+    "level": 40,
+    "maxQuality": 1025,
+    "name": {
+      "en": "Gourmet Lunch"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 60,
+    "id": "d691af1de83",
+    "level": 40,
+    "maxQuality": 4100,
+    "name": {
+      "en": "Grade 2 Skybuilders' Bread"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 60,
+    "id": "ea11df2293b",
+    "level": 40,
+    "maxQuality": 4100,
+    "name": {
+      "en": "Grade 3 Skybuilders' Sesame Cookie"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 60,
+    "id": "11fa4492afc",
+    "level": 40,
+    "maxQuality": 4100,
+    "name": {
+      "en": "Grade 4 Skybuilders' Sesame Cookie"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 80,
+    "id": "d571239c429",
+    "level": 40,
+    "maxQuality": 2050,
+    "name": {
+      "en": "Grilled Raincaller"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 80,
+    "id": "5c604721871",
+    "level": 40,
+    "maxQuality": 2050,
+    "name": {
+      "en": "Pastry Fish"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 207,
+    "durability": 60,
+    "id": "965f9760b6c",
+    "level": 40,
+    "maxQuality": 4100,
+    "name": {
+      "en": "Skybuilders' Uncooked Pasta"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 41,
+    "difficulty": 143,
+    "durability": 80,
+    "id": "e155edd67ba",
+    "level": 41,
+    "maxQuality": 2109,
+    "name": {
+      "en": "Jerked Beef"
+    },
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 42,
+    "difficulty": 144,
+    "durability": 80,
+    "id": "bd5062aaf1d",
+    "level": 42,
+    "maxQuality": 2147,
+    "name": {
+      "en": "Salt Cod Puffs"
+    },
+    "suggestedCraftsmanship": 150
+  },
+  {
+    "baseLevel": 43,
+    "difficulty": 155,
+    "durability": 80,
+    "id": "bfc6ff8c0d4",
+    "level": 43,
+    "maxQuality": 2251,
+    "name": {
+      "en": "Fish Soup"
+    },
+    "suggestedCraftsmanship": 150
+  },
+  {
+    "baseLevel": 43,
+    "difficulty": 155,
+    "durability": 80,
+    "id": "7d5a4a39210",
+    "level": 43,
+    "maxQuality": 1125,
+    "name": {
+      "en": "Redoubtable Rolanberry Tart"
+    },
+    "suggestedCraftsmanship": 150
+  },
+  {
+    "baseLevel": 43,
+    "difficulty": 77,
+    "durability": 40,
+    "id": "a283b186c44",
+    "level": 43,
+    "maxQuality": 2251,
+    "name": {
+      "en": "Rolanberry Cheese"
+    },
+    "suggestedCraftsmanship": 150
+  },
+  {
+    "baseLevel": 44,
+    "difficulty": 156,
+    "durability": 80,
+    "id": "2d672d8c016",
+    "level": 44,
+    "maxQuality": 2277,
+    "name": {
+      "en": "Button Mushroom Saute"
+    },
+    "suggestedCraftsmanship": 150
+  },
+  {
+    "baseLevel": 44,
+    "difficulty": 156,
+    "durability": 80,
+    "id": "929259f18b0",
+    "level": 44,
+    "maxQuality": 2277,
+    "name": {
+      "en": "Dzemael Gratin"
+    },
+    "suggestedCraftsmanship": 150
+  },
+  {
+    "baseLevel": 45,
+    "difficulty": 158,
+    "durability": 80,
+    "id": "3b4dc32354c",
+    "level": 45,
+    "maxQuality": 1154,
+    "name": {
+      "en": "Alpine Breakfast"
+    },
+    "suggestedCraftsmanship": 150
+  },
+  {
+    "baseLevel": 45,
+    "difficulty": 158,
+    "durability": 80,
+    "id": "65a755edb4e",
+    "level": 45,
+    "maxQuality": 2309,
+    "name": {
+      "en": "La Noscean Toast"
+    },
+    "suggestedCraftsmanship": 150
+  },
+  {
+    "baseLevel": 45,
+    "difficulty": 158,
+    "durability": 80,
+    "id": "a05776490e6",
+    "level": 45,
+    "maxQuality": 2309,
+    "name": {
+      "en": "Rolanberry Lassi"
+    },
+    "suggestedCraftsmanship": 150
+  },
+  {
+    "baseLevel": 45,
+    "difficulty": 158,
+    "durability": 80,
+    "id": "4218baeebf2",
+    "level": 45,
+    "maxQuality": 1154,
+    "name": {
+      "en": "Starlight Cake"
+    },
+    "suggestedCraftsmanship": 150
+  },
+  {
+    "baseLevel": 45,
+    "difficulty": 158,
+    "durability": 80,
+    "id": "adccd2ea0ce",
+    "level": 45,
+    "maxQuality": 2309,
+    "name": {
+      "en": "Stuffed Cabbage"
+    },
+    "suggestedCraftsmanship": 150
+  },
+  {
+    "baseLevel": 46,
+    "difficulty": 159,
+    "durability": 80,
+    "id": "ad09ad1ce83",
+    "level": 46,
+    "maxQuality": 2372,
+    "name": {
+      "en": "Deviled Eggs"
+    },
+    "suggestedCraftsmanship": 150
+  },
+  {
+    "baseLevel": 47,
+    "difficulty": 167,
+    "durability": 80,
+    "id": "079b4cc09db",
+    "level": 47,
+    "maxQuality": 2421,
+    "name": {
+      "en": "Mulled Tea"
+    },
+    "suggestedCraftsmanship": 161
+  },
+  {
+    "baseLevel": 48,
+    "difficulty": 172,
+    "durability": 80,
+    "id": "39a39079bc8",
+    "level": 48,
+    "maxQuality": 2524,
+    "name": {
+      "en": "Crowned Pie"
+    },
+    "suggestedCraftsmanship": 161
+  },
+  {
+    "baseLevel": 49,
+    "difficulty": 174,
+    "durability": 80,
+    "id": "4294f35d48a",
+    "level": 49,
+    "maxQuality": 2551,
+    "name": {
+      "en": "Buttons in a Blanket"
+    },
+    "suggestedCraftsmanship": 161
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 595,
+    "durability": 80,
+    "id": "c0ef04e2380",
+    "level": 50,
+    "maxQuality": 1320,
+    "name": {
+      "en": "Aetheric Shielding"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 186,
+    "durability": 80,
+    "id": "df7436bb59a",
+    "level": 50,
+    "maxQuality": 1320,
+    "name": {
+      "en": "Assorted Fruit"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 357,
+    "durability": 80,
+    "id": "d34f5f8413c",
+    "level": 50,
+    "maxQuality": 528,
+    "name": {
+      "en": "Austere Offering"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 279,
+    "durability": 80,
+    "id": "042a5ed34bf",
+    "level": 50,
+    "maxQuality": 1980,
+    "name": {
+      "en": "Basket Component"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 186,
+    "durability": 80,
+    "id": "4d40e858f2b",
+    "level": 50,
+    "maxQuality": 2641,
+    "name": {
+      "en": "Beef Stew"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 267,
+    "durability": 80,
+    "id": "9f80ce61674",
+    "level": 50,
+    "maxQuality": 660,
+    "name": {
+      "en": "Cloudfish Lure"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 186,
+    "durability": 80,
+    "id": "38209e7cb72",
+    "level": 50,
+    "maxQuality": 2641,
+    "name": {
+      "en": "Dagger Soup"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 446,
+    "durability": 80,
+    "id": "b2976000f9c",
+    "level": 50,
+    "maxQuality": 1056,
+    "name": {
+      "en": "Dragonscale Rasp"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 186,
+    "durability": 80,
+    "id": "3de91401a7e",
+    "level": 50,
+    "maxQuality": 2641,
+    "name": {
+      "en": "Eft Steak"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 357,
+    "durability": 80,
+    "id": "378564165b7",
+    "level": 50,
+    "maxQuality": 528,
+    "name": {
+      "en": "Exploding Kupo Nut"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 93,
+    "durability": 40,
+    "id": "33511e2eaba",
+    "level": 50,
+    "maxQuality": 2641,
+    "name": {
+      "en": "Fake Kupo Nut"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 446,
+    "durability": 80,
+    "id": "079a1c0e47f",
+    "level": 50,
+    "maxQuality": 1056,
+    "name": {
+      "en": "Foundation Component"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 334,
+    "durability": 80,
+    "id": "53e9f03828f",
+    "level": 50,
+    "maxQuality": 1320,
+    "name": {
+      "en": "Gathering Tool Component"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 267,
+    "durability": 80,
+    "id": "7a2627085bd",
+    "level": 50,
+    "maxQuality": 660,
+    "name": {
+      "en": "Horn Component"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 334,
+    "durability": 80,
+    "id": "0db2a228d3b",
+    "level": 50,
+    "maxQuality": 1320,
+    "name": {
+      "en": "Ishgardian Cuisine Miscellany"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 446,
+    "durability": 80,
+    "id": "54d3624a7ea",
+    "level": 50,
+    "maxQuality": 1056,
+    "name": {
+      "en": "Makeshift Toy Airship"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 334,
+    "durability": 80,
+    "id": "74675e18b49",
+    "level": 50,
+    "maxQuality": 1320,
+    "name": {
+      "en": "Mogstew Miscellany"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 223,
+    "durability": 80,
+    "id": "6d1294654f5",
+    "level": 50,
+    "maxQuality": 977,
+    "name": {
+      "en": "Moogle Mollifier"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 357,
+    "durability": 80,
+    "id": "eb1b64e3f96",
+    "level": 50,
+    "maxQuality": 528,
+    "name": {
+      "en": "Moogle Statuette"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 357,
+    "durability": 80,
+    "id": "55d35e7cc4e",
+    "level": 50,
+    "maxQuality": 528,
+    "name": {
+      "en": "Moogle Tool Component"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 292,
+    "durability": 80,
+    "id": "ea6842de084",
+    "level": 50,
+    "maxQuality": 4114,
+    "name": {
+      "en": "Rarefied Dhalmel Gratin"
+    },
+    "suggestedCraftsmanship": 314
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 334,
+    "durability": 80,
+    "id": "2c7f5bc3ff5",
+    "level": 50,
+    "maxQuality": 1320,
+    "name": {
+      "en": "Repurposed Construction Component"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 279,
+    "durability": 80,
+    "id": "08f5f1a520c",
+    "level": 50,
+    "maxQuality": 1980,
+    "name": {
+      "en": "Shearing Machine Component"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 223,
+    "durability": 80,
+    "id": "ff4fbe97b34",
+    "level": 50,
+    "maxQuality": 977,
+    "name": {
+      "en": "Statue Supplies"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 223,
+    "durability": 80,
+    "id": "83629316335",
+    "level": 50,
+    "maxQuality": 977,
+    "name": {
+      "en": "Stonemasonry Supplies"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 476,
+    "durability": 80,
+    "id": "4fb95331bd7",
+    "level": 50,
+    "maxQuality": 660,
+    "name": {
+      "en": "Tablet Supplies"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 186,
+    "durability": 80,
+    "id": "b97b66bb9f2",
+    "level": 50,
+    "maxQuality": 2641,
+    "name": {
+      "en": "Training Supplies"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 186,
+    "durability": 80,
+    "id": "8c0a085c517",
+    "level": 50,
+    "maxQuality": 2641,
+    "name": {
+      "en": "Trapper's Quiche"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 595,
+    "durability": 80,
+    "id": "61f41b277e4",
+    "level": 50,
+    "maxQuality": 1320,
+    "name": {
+      "en": "Treadwheel Crane Components"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 267,
+    "durability": 80,
+    "id": "20da98c082f",
+    "level": 50,
+    "maxQuality": 660,
+    "name": {
+      "en": "Veneer Component"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 446,
+    "durability": 80,
+    "id": "e9a14507ab7",
+    "level": 50,
+    "maxQuality": 1056,
+    "name": {
+      "en": "Wall Repair Supplies"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 267,
+    "durability": 80,
+    "id": "62298261164",
+    "level": 50,
+    "maxQuality": 660,
+    "name": {
+      "en": "Water Filter Component"
+    },
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 195,
+    "durability": 80,
+    "id": "9779f223d98",
+    "level": 55,
+    "maxQuality": 2646,
+    "name": {
+      "en": "Bouillabaisse"
+    },
+    "stars": 1,
+    "suggestedControl": 255
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 195,
+    "durability": 80,
+    "id": "3a0645c0773",
+    "level": 55,
+    "maxQuality": 1323,
+    "name": {
+      "en": "Green Tea Set"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 275
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 195,
+    "durability": 80,
+    "id": "7f08098e7f1",
+    "level": 55,
+    "maxQuality": 2646,
+    "name": {
+      "en": "Landtrap Salad"
+    },
+    "stars": 1,
+    "suggestedControl": 255
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 195,
+    "durability": 80,
+    "id": "a4e6fc31e12",
+    "level": 55,
+    "maxQuality": 1323,
+    "name": {
+      "en": "Oasis Breakfast"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 275
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 195,
+    "durability": 80,
+    "id": "b5566b3a6e7",
+    "level": 55,
+    "maxQuality": 2646,
+    "name": {
+      "en": "Pan-fried Mahi-Mahi"
+    },
+    "stars": 1,
+    "suggestedControl": 255
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 195,
+    "durability": 80,
+    "id": "1e0c02bf819",
+    "level": 55,
+    "maxQuality": 2646,
+    "name": {
+      "en": "Rolanberry Cheesecake"
+    },
+    "stars": 1,
+    "suggestedControl": 255
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 195,
+    "durability": 80,
+    "id": "5068689df0a",
+    "level": 55,
+    "maxQuality": 2646,
+    "name": {
+      "en": "Tomato Pie"
+    },
+    "stars": 1,
+    "suggestedControl": 255
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "4d4ed8eb197",
+    "level": 70,
+    "maxQuality": 1460,
+    "name": {
+      "en": "Afternoon Tea Set"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 347
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "2bcbc5822d2",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Apkallu Omelette"
+    },
+    "stars": 2,
+    "suggestedControl": 318
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "085578bec84",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Black Truffle Risotto"
+    },
+    "stars": 2,
+    "suggestedControl": 318
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "84538a00d1a",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Chilled Popoto Soup"
+    },
+    "stars": 2,
+    "suggestedControl": 318
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "6cc03cbf5f1",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Finger Sandwich"
+    },
+    "stars": 2,
+    "suggestedControl": 318
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "2e1f846d104",
+    "level": 70,
+    "maxQuality": 1460,
+    "name": {
+      "en": "Gourmet Supper"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 347
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 116,
+    "durability": 80,
+    "id": "0b3c146b889",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Grade 2 Feed - Acceleration Blend"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 347
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 116,
+    "durability": 80,
+    "id": "1d5da511114",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Grade 2 Feed - Balance Blend"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 347
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 116,
+    "durability": 80,
+    "id": "b9c80716484",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Grade 2 Feed - Endurance Blend"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 347
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 116,
+    "durability": 80,
+    "id": "cf9cdadb127",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Grade 2 Feed - Speed Blend"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 347
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 116,
+    "durability": 80,
+    "id": "7cf58e7ae97",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Grade 2 Feed - Stamina Blend"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 347
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "edf9bdabeca",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Lava Toad Legs"
+    },
+    "stars": 2,
+    "suggestedControl": 318
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "9791fc8be79",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Magitek Repair Materials"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 347
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "6709c94403e",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Pineapple Juice"
+    },
+    "stars": 2,
+    "suggestedControl": 318
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "903235d6a3f",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Pineapple Ponzecake"
+    },
+    "stars": 2,
+    "suggestedControl": 318
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "a0cb6adb34b",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Sauteed Coeurl"
+    },
+    "stars": 2,
+    "suggestedControl": 318
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "76211a74b64",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Spicy Tomato Relish"
+    },
+    "stars": 2,
+    "suggestedControl": 318,
+    "suggestedCraftsmanship": 347
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 233,
+    "durability": 80,
+    "id": "3fa8b89acd2",
+    "level": 70,
+    "maxQuality": 2921,
+    "name": {
+      "en": "Spinach Quiche"
+    },
+    "stars": 2,
+    "suggestedControl": 318
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 222,
+    "durability": 40,
+    "id": "52c7b2fee2e",
+    "level": 90,
+    "maxQuality": 4980,
+    "name": {
+      "en": "Duck Broth"
+    },
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 445,
+    "durability": 80,
+    "id": "27db50ee25c",
+    "level": 90,
+    "maxQuality": 4980,
+    "name": {
+      "en": "Haddock Dip"
+    },
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 445,
+    "durability": 80,
+    "id": "1aab430d930",
+    "level": 90,
+    "maxQuality": 4980,
+    "name": {
+      "en": "Popoto Pancakes"
+    },
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 445,
+    "durability": 80,
+    "id": "356af03b5ea",
+    "level": 90,
+    "maxQuality": 4980,
+    "name": {
+      "en": "Rich Tomato Relish"
+    },
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 445,
+    "durability": 80,
+    "id": "7dd91bf87c7",
+    "level": 90,
+    "maxQuality": 4980,
+    "name": {
+      "en": "Roast Canard"
+    },
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 445,
+    "durability": 80,
+    "id": "a037c794ad0",
+    "level": 90,
+    "maxQuality": 4980,
+    "name": {
+      "en": "Sachertorte"
+    },
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 445,
+    "durability": 80,
+    "id": "887a3f4fe6c",
+    "level": 90,
+    "maxQuality": 4980,
+    "name": {
+      "en": "Shark Fin Soup"
+    },
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 445,
+    "durability": 80,
+    "id": "ed53371d480",
+    "level": 90,
+    "maxQuality": 4980,
+    "name": {
+      "en": "Steamed Catfish"
+    },
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 445,
+    "durability": 80,
+    "id": "323eb2ddf17",
+    "level": 90,
+    "maxQuality": 4980,
+    "name": {
+      "en": "Tailor-made Eel Pie"
+    },
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 445,
+    "durability": 80,
+    "id": "1652594b902",
+    "level": 90,
+    "maxQuality": 2490,
+    "name": {
+      "en": "Valentione's Cake"
+    },
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 586,
+    "durability": 80,
+    "id": "afa086f595e",
+    "level": 110,
+    "maxQuality": 5783,
+    "name": {
+      "en": "Bacon Bread"
+    },
+    "stars": 4,
+    "suggestedControl": 407,
+    "suggestedCraftsmanship": 451
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 586,
+    "durability": 80,
+    "id": "0531fddf6e5",
+    "level": 110,
+    "maxQuality": 5783,
+    "name": {
+      "en": "Bacon Broth"
+    },
+    "stars": 4,
+    "suggestedControl": 407,
+    "suggestedCraftsmanship": 451
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 586,
+    "durability": 80,
+    "id": "509c9c00325",
+    "level": 110,
+    "maxQuality": 5783,
+    "name": {
+      "en": "Flint Caviar"
+    },
+    "stars": 4,
+    "suggestedControl": 407,
+    "suggestedCraftsmanship": 451
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 586,
+    "durability": 80,
+    "id": "36abe3135bc",
+    "level": 110,
+    "maxQuality": 5783,
+    "name": {
+      "en": "Triple Cream Coffee"
+    },
+    "stars": 4,
+    "suggestedControl": 407,
+    "suggestedCraftsmanship": 451
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 339,
+    "durability": 80,
+    "id": "7c497297bc1",
+    "level": 115,
+    "maxQuality": 3951,
+    "name": {
+      "en": "Fig Bavarois"
+    },
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 169,
+    "durability": 40,
+    "id": "10e999dde6e",
+    "level": 115,
+    "maxQuality": 3951,
+    "name": {
+      "en": "Sour Cream"
+    },
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 52,
+    "difficulty": 503,
+    "durability": 80,
+    "id": "0ae94dcc1f9",
+    "level": 125,
+    "maxQuality": 5172,
+    "name": {
+      "en": "Baked Onion Soup"
+    },
+    "suggestedCraftsmanship": 502
+  },
+  {
+    "baseLevel": 52,
+    "difficulty": 503,
+    "durability": 80,
+    "id": "ba2dde5e48b",
+    "level": 125,
+    "maxQuality": 2586,
+    "name": {
+      "en": "Cake Tray"
+    },
+    "suggestedCraftsmanship": 502
+  },
+  {
+    "baseLevel": 52,
+    "difficulty": 251,
+    "durability": 40,
+    "id": "c80449ab311",
+    "level": 125,
+    "maxQuality": 5172,
+    "name": {
+      "en": "Highland Flour"
+    },
+    "suggestedCraftsmanship": 502
+  },
+  {
+    "baseLevel": 52,
+    "difficulty": 503,
+    "durability": 80,
+    "id": "6480735ce73",
+    "level": 125,
+    "maxQuality": 5172,
+    "name": {
+      "en": "Rarefied Sohm Al Tart"
+    },
+    "suggestedCraftsmanship": 502
+  },
+  {
+    "baseLevel": 52,
+    "difficulty": 503,
+    "durability": 80,
+    "id": "9e85fb49f22",
+    "level": 125,
+    "maxQuality": 2586,
+    "name": {
+      "en": "Royal Dowager Tea Set"
+    },
+    "suggestedCraftsmanship": 502
+  },
+  {
+    "baseLevel": 52,
+    "difficulty": 503,
+    "durability": 80,
+    "id": "89e8476144f",
+    "level": 125,
+    "maxQuality": 5172,
+    "name": {
+      "en": "Stuffed Cabbage Rolls"
+    },
+    "suggestedCraftsmanship": 502
+  },
+  {
+    "baseLevel": 53,
+    "difficulty": 293,
+    "durability": 40,
+    "id": "6267493860a",
+    "level": 130,
+    "maxQuality": 5783,
+    "name": {
+      "en": "Fermented Butter"
+    },
+    "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 53,
+    "difficulty": 586,
+    "durability": 80,
+    "id": "56d84b256eb",
+    "level": 130,
+    "maxQuality": 5783,
+    "name": {
+      "en": "Ishgardian Muffin"
+    },
+    "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 53,
+    "difficulty": 586,
+    "durability": 80,
+    "id": "9fa9c665783",
+    "level": 130,
+    "maxQuality": 5783,
+    "name": {
+      "en": "Ishgardian Tea"
+    },
+    "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 53,
+    "difficulty": 586,
+    "durability": 80,
+    "id": "41d53fbb05c",
+    "level": 130,
+    "maxQuality": 5783,
+    "name": {
+      "en": "Sauteed Porcini"
+    },
+    "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 641,
+    "durability": 80,
+    "id": "0bb72cf8e51",
+    "level": 133,
+    "maxQuality": 6042,
+    "name": {
+      "en": "Beet Soup"
+    },
+    "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 641,
+    "durability": 80,
+    "id": "f30dd82aca8",
+    "level": 133,
+    "maxQuality": 6042,
+    "name": {
+      "en": "Dhalmel Gratin"
+    },
+    "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 641,
+    "durability": 80,
+    "id": "2919a6cb3ed",
+    "level": 133,
+    "maxQuality": 6042,
+    "name": {
+      "en": "Grilled Sweetfish"
+    },
+    "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 641,
+    "durability": 80,
+    "id": "11427dacccf",
+    "level": 133,
+    "maxQuality": 6042,
+    "name": {
+      "en": "Rarefied Sauteed Porcini"
+    },
+    "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 641,
+    "durability": 80,
+    "id": "776c3ee3e4d",
+    "level": 133,
+    "maxQuality": 6042,
+    "name": {
+      "en": "Sohm Al Tart"
+    },
+    "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 55,
+    "difficulty": 348,
+    "durability": 35,
+    "id": "641531fb241",
+    "level": 136,
+    "maxQuality": 6301,
+    "name": {
+      "en": "Hollandaise Sauce"
+    },
+    "suggestedCraftsmanship": 539
+  },
+  {
+    "baseLevel": 55,
+    "difficulty": 697,
+    "durability": 70,
+    "id": "a171ae178b9",
+    "level": 136,
+    "maxQuality": 3150,
+    "name": {
+      "en": "House Borel Tea Set"
+    },
+    "suggestedCraftsmanship": 539
+  },
+  {
+    "baseLevel": 55,
+    "difficulty": 697,
+    "durability": 70,
+    "id": "3406411ce8f",
+    "level": 136,
+    "maxQuality": 6301,
+    "name": {
+      "en": "Kaiser Roll"
+    },
+    "suggestedCraftsmanship": 539
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 752,
+    "durability": 70,
+    "id": "2cd229a2cdc",
+    "level": 139,
+    "maxQuality": 6561,
+    "name": {
+      "en": "Emerald Soup"
+    },
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 752,
+    "durability": 70,
+    "id": "10060bc5094",
+    "level": 139,
+    "maxQuality": 3280,
+    "name": {
+      "en": "High House Supper Set"
+    },
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 752,
+    "durability": 70,
+    "id": "8539edb6168",
+    "level": 139,
+    "maxQuality": 3280,
+    "name": {
+      "en": "Oriental Breakfast"
+    },
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 752,
+    "durability": 70,
+    "id": "48d8e5e8e9d",
+    "level": 139,
+    "maxQuality": 3280,
+    "name": {
+      "en": "Oriental Tea Set"
+    },
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 752,
+    "durability": 70,
+    "id": "f4debd80a55",
+    "level": 139,
+    "maxQuality": 6561,
+    "name": {
+      "en": "Rarefied Royal Eggs"
+    },
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 752,
+    "durability": 70,
+    "id": "3f1d90f46ff",
+    "level": 139,
+    "maxQuality": 3280,
+    "name": {
+      "en": "Riviera Breakfast"
+    },
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 752,
+    "durability": 70,
+    "id": "65778a38adf",
+    "level": 139,
+    "maxQuality": 3280,
+    "name": {
+      "en": "Riviera Lunch"
+    },
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 752,
+    "durability": 70,
+    "id": "797b2fa4778",
+    "level": 139,
+    "maxQuality": 6561,
+    "name": {
+      "en": "Sesame Cookie"
+    },
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 376,
+    "durability": 35,
+    "id": "08446020a3f",
+    "level": 139,
+    "maxQuality": 6561,
+    "name": {
+      "en": "Vermicelli"
+    },
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 808,
+    "durability": 70,
+    "id": "55e640990e4",
+    "level": 142,
+    "maxQuality": 3410,
+    "name": {
+      "en": "Alpine Tea Set"
+    },
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 808,
+    "durability": 70,
+    "id": "9e56c0d4945",
+    "level": 142,
+    "maxQuality": 6820,
+    "name": {
+      "en": "Dhalmel Fricassee"
+    },
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 808,
+    "durability": 60,
+    "id": "a46ed91dfe1",
+    "level": 142,
+    "maxQuality": 5456,
+    "name": {
+      "en": "Near Eastern Antique"
+    },
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 404,
+    "durability": 60,
+    "id": "f5cf1b06109",
+    "level": 142,
+    "maxQuality": 2728,
+    "name": {
+      "en": "Near Eastern Antique Component"
+    },
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 808,
+    "durability": 70,
+    "id": "b4b4282240e",
+    "level": 142,
+    "maxQuality": 3410,
+    "name": {
+      "en": "Oriental Supper"
+    },
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 808,
+    "durability": 70,
+    "id": "8a728deb6cd",
+    "level": 142,
+    "maxQuality": 6820,
+    "name": {
+      "en": "Royal Eggs"
+    },
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 863,
+    "durability": 70,
+    "id": "20fb6b0cdbb",
+    "level": 145,
+    "maxQuality": 7080,
+    "name": {
+      "en": "Baked Pipira Pira"
+    },
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 863,
+    "durability": 70,
+    "id": "1a48b2f72dc",
+    "level": 145,
+    "maxQuality": 7080,
+    "name": {
+      "en": "Brazier Components"
+    },
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 863,
+    "durability": 70,
+    "id": "f378c69d85b",
+    "level": 145,
+    "maxQuality": 7080,
+    "name": {
+      "en": "Cockatrice Meatballs"
+    },
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 863,
+    "durability": 60,
+    "id": "823d5a8ac76",
+    "level": 145,
+    "maxQuality": 5664,
+    "name": {
+      "en": "Coerthan Souvenir"
+    },
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 431,
+    "durability": 60,
+    "id": "95ec5dba123",
+    "level": 145,
+    "maxQuality": 2832,
+    "name": {
+      "en": "Coerthan Souvenir Component"
+    },
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 863,
+    "durability": 70,
+    "id": "67c7a6c2d73",
+    "level": 145,
+    "maxQuality": 7080,
+    "name": {
+      "en": "Finery Components"
+    },
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 863,
+    "durability": 70,
+    "id": "2a8162b5ad8",
+    "level": 145,
+    "maxQuality": 7080,
+    "name": {
+      "en": "Frozen Spirits"
+    },
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 863,
+    "durability": 70,
+    "id": "39825310dc4",
+    "level": 145,
+    "maxQuality": 7080,
+    "name": {
+      "en": "Happi Components"
+    },
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 863,
+    "durability": 70,
+    "id": "bbdc52373f7",
+    "level": 145,
+    "maxQuality": 7080,
+    "name": {
+      "en": "Rarefied Peperoncino"
+    },
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 1553,
+    "durability": 70,
+    "id": "5fb89f3f860",
+    "level": 145,
+    "maxQuality": 3540,
+    "name": {
+      "en": "Ritual Implement Components"
+    },
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 1553,
+    "durability": 70,
+    "id": "dc26d96253a",
+    "level": 145,
+    "maxQuality": 3540,
+    "name": {
+      "en": "Trinket Components"
+    },
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 431,
+    "durability": 35,
+    "id": "93c3a149cd8",
+    "level": 145,
+    "maxQuality": 7080,
+    "name": {
+      "en": "Uchiwa Components"
+    },
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 1378,
+    "durability": 70,
+    "id": "d6cddffbaa6",
+    "level": 148,
+    "maxQuality": 5504,
+    "name": {
+      "en": "Altar Components"
+    },
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 1654,
+    "durability": 70,
+    "id": "045f223bac3",
+    "level": 148,
+    "maxQuality": 3669,
+    "name": {
+      "en": "Azim Steppe Souvenir Components"
+    },
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 459,
+    "durability": 35,
+    "id": "fd02a6049a4",
+    "level": 148,
+    "maxQuality": 7339,
+    "name": {
+      "en": "Birch Syrup"
+    },
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 919,
+    "durability": 70,
+    "id": "9dcef7d7d56",
+    "level": 148,
+    "maxQuality": 7339,
+    "name": {
+      "en": "Buuz Cooking Paraphernalia"
+    },
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 919,
+    "durability": 70,
+    "id": "fb12b6eaf92",
+    "level": 148,
+    "maxQuality": 7339,
+    "name": {
+      "en": "Catfish Lure Components"
+    },
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 919,
+    "durability": 70,
+    "id": "9bea2c745a5",
+    "level": 148,
+    "maxQuality": 7339,
+    "name": {
+      "en": "Hingan Ritual Paraphernalia"
+    },
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 919,
+    "durability": 70,
+    "id": "0e2f24c3fd0",
+    "level": 148,
+    "maxQuality": 7339,
+    "name": {
+      "en": "Liver-cheese Sandwich"
+    },
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 919,
+    "durability": 60,
+    "id": "817a7f28c8f",
+    "level": 148,
+    "maxQuality": 5871,
+    "name": {
+      "en": "Maelstrom Materiel"
+    },
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 459,
+    "durability": 60,
+    "id": "2a89d9aad64",
+    "level": 148,
+    "maxQuality": 2935,
+    "name": {
+      "en": "Maelstrom Materiel Component"
+    },
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 919,
+    "durability": 70,
+    "id": "5a15fa2996c",
+    "level": 148,
+    "maxQuality": 7339,
+    "name": {
+      "en": "Marron Glace"
+    },
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 459,
+    "durability": 35,
+    "id": "9b08e07adff",
+    "level": 148,
+    "maxQuality": 7339,
+    "name": {
+      "en": "Mol Tea Ceremony Paraphernalia"
+    },
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 1323,
+    "durability": 70,
+    "id": "aa4a83296e1",
+    "level": 148,
+    "maxQuality": 1834,
+    "name": {
+      "en": "Substitute Offering"
+    },
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "4cdf7ff6dda",
+    "level": 150,
+    "maxQuality": 3925,
+    "name": {
+      "en": "Alpine Supper Set"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1376,
+    "durability": 70,
+    "id": "7f76c2f81ce",
+    "level": 150,
+    "maxQuality": 1962,
+    "name": {
+      "en": "Ceremonial Bow Components"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "e94a2251594",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "en": "Clam Chowder"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 478,
+    "durability": 35,
+    "id": "30fa318141d",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "en": "Confetti-making Tools"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1376,
+    "durability": 70,
+    "id": "02623f930c2",
+    "level": 150,
+    "maxQuality": 1962,
+    "name": {
+      "en": "Culinary Knife Component"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "b3e06c9292c",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "en": "Deep-fried Okeanis"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1720,
+    "durability": 70,
+    "id": "295eb4752a1",
+    "level": 150,
+    "maxQuality": 3925,
+    "name": {
+      "en": "Drum Parts"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1376,
+    "durability": 70,
+    "id": "903decd1cb5",
+    "level": 150,
+    "maxQuality": 1962,
+    "name": {
+      "en": "Dzo Shear Components"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1147,
+    "durability": 70,
+    "id": "88e3a8937d1",
+    "level": 150,
+    "maxQuality": 2904,
+    "name": {
+      "en": "Effigy Components"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "37fa84fb558",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "en": "Elixir Mixing Paraphernalia"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1434,
+    "durability": 70,
+    "id": "df2ff871a17",
+    "level": 150,
+    "maxQuality": 5888,
+    "name": {
+      "en": "Generous Gift"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 60,
+    "id": "36d7e0870c7",
+    "level": 150,
+    "maxQuality": 15702,
+    "name": {
+      "en": "Grade 2 Skybuilders' Tea"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 60,
+    "id": "e0cdb339f8c",
+    "level": 150,
+    "maxQuality": 15702,
+    "name": {
+      "en": "Grade 3 Skybuilders' Tea"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 60,
+    "id": "c571a4e782f",
+    "level": 150,
+    "maxQuality": 15702,
+    "name": {
+      "en": "Grade 4 Skybuilders' Tea"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 60,
+    "id": "24906672d43",
+    "level": 150,
+    "maxQuality": 6280,
+    "name": {
+      "en": "Gyr Abanian Souvenir"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 478,
+    "durability": 60,
+    "id": "bc8a75443a4",
+    "level": 150,
+    "maxQuality": 3140,
+    "name": {
+      "en": "Gyr Abanian Souvenir Component"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 60,
+    "id": "0951e048da9",
+    "level": 150,
+    "maxQuality": 6280,
+    "name": {
+      "en": "Heartfelt Gift"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 478,
+    "durability": 60,
+    "id": "010750dd4e4",
+    "level": 150,
+    "maxQuality": 3140,
+    "name": {
+      "en": "Heartfelt Gift Component"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1376,
+    "durability": 70,
+    "id": "9ed66760915",
+    "level": 150,
+    "maxQuality": 1962,
+    "name": {
+      "en": "Korrigan Doll"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "db322c834ed",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "en": "Land Diving Gear"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1720,
+    "durability": 70,
+    "id": "0115b9c75f0",
+    "level": 150,
+    "maxQuality": 3925,
+    "name": {
+      "en": "Mikoshi Frippery"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "b9778a23a0e",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "en": "Morel Salad"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1376,
+    "durability": 70,
+    "id": "20722bf7aa9",
+    "level": 150,
+    "maxQuality": 1962,
+    "name": {
+      "en": "Pristine Fruit Figurine"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "9833f49c361",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "en": "Rarefied Marron Glace"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 60,
+    "id": "9ea01bbffea",
+    "level": 150,
+    "maxQuality": 15702,
+    "name": {
+      "en": "Skybuilders' Tea"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "84e5c4b34cc",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "en": "Stable Supplies"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "03986099d44",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "en": "Steeping Accessory"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 956,
+    "durability": 70,
+    "id": "fdebb1e6d97",
+    "level": 150,
+    "maxQuality": 7851,
+    "name": {
+      "en": "Stuffed Chysahl"
+    },
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 982,
+    "durability": 70,
+    "id": "9e1bf07dbb4",
+    "level": 160,
+    "maxQuality": 7874,
+    "name": {
+      "en": "Almond Cream Croissant"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 982,
+    "durability": 70,
+    "id": "b651ee17ce7",
+    "level": 160,
+    "maxQuality": 7874,
+    "name": {
+      "en": "Creme Brulee"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 982,
+    "durability": 60,
+    "id": "7dda9aa5e68",
+    "level": 160,
+    "maxQuality": 6299,
+    "name": {
+      "en": "Far Eastern Antique"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 491,
+    "durability": 60,
+    "id": "006c3bb72f5",
+    "level": 160,
+    "maxQuality": 3149,
+    "name": {
+      "en": "Far Eastern Antique Component"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 982,
+    "durability": 70,
+    "id": "d525e48a3ed",
+    "level": 160,
+    "maxQuality": 7874,
+    "name": {
+      "en": "Hot Chocolate"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 982,
+    "durability": 70,
+    "id": "2292b5ff258",
+    "level": 160,
+    "maxQuality": 7874,
+    "name": {
+      "en": "Kingcake"
+    },
+    "stars": 1,
+    "suggestedControl": 589
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 982,
+    "durability": 70,
+    "id": "253d6becbd9",
+    "level": 160,
+    "maxQuality": 3937,
+    "name": {
+      "en": "Nameday Cake"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 982,
+    "durability": 60,
+    "id": "3638f28f53d",
+    "level": 160,
+    "maxQuality": 6299,
+    "name": {
+      "en": "Orphanage Donation"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 491,
+    "durability": 60,
+    "id": "d9ec9084931",
+    "level": 160,
+    "maxQuality": 3149,
+    "name": {
+      "en": "Orphanage Donation Component"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 982,
+    "durability": 70,
+    "id": "8b8b655b73d",
+    "level": 160,
+    "maxQuality": 7874,
+    "name": {
+      "en": "Seafood Stew"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 982,
+    "durability": 70,
+    "id": "a6dfff05cdd",
+    "level": 160,
+    "maxQuality": 7874,
+    "name": {
+      "en": "Snurbleberry Tart"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 982,
+    "durability": 70,
+    "id": "729f268d858",
+    "level": 160,
+    "maxQuality": 7874,
+    "name": {
+      "en": "Steamed Staff"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 982,
+    "durability": 70,
+    "id": "0368cac78b5",
+    "level": 160,
+    "maxQuality": 7874,
+    "name": {
+      "en": "Urchin Loaf"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1033,
+    "durability": 70,
+    "id": "50581898288",
+    "level": 180,
+    "maxQuality": 8015,
+    "name": {
+      "en": "Angler Stew"
+    },
+    "stars": 2,
+    "suggestedControl": 695,
+    "suggestedCraftsmanship": 718
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1033,
+    "durability": 70,
+    "id": "27c41844492",
+    "level": 180,
+    "maxQuality": 8015,
+    "name": {
+      "en": "Oyster Confit"
+    },
+    "stars": 2,
+    "suggestedControl": 695,
+    "suggestedCraftsmanship": 718
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1033,
+    "durability": 70,
+    "id": "b822a90fe3c",
+    "level": 180,
+    "maxQuality": 8015,
+    "name": {
+      "en": "Sweet Gnomefish"
+    },
+    "stars": 2,
+    "suggestedControl": 695,
+    "suggestedCraftsmanship": 718
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1106,
+    "durability": 70,
+    "id": "a1f9f5a63b3",
+    "level": 210,
+    "maxQuality": 8298,
+    "name": {
+      "en": "Apple Strudel"
+    },
+    "stars": 3,
+    "suggestedControl": 820,
+    "suggestedCraftsmanship": 850
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1106,
+    "durability": 70,
+    "id": "12771481ecf",
+    "level": 210,
+    "maxQuality": 8298,
+    "name": {
+      "en": "Boscaiola"
+    },
+    "stars": 3,
+    "suggestedControl": 820,
+    "suggestedCraftsmanship": 850
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1234,
+    "durability": 70,
+    "id": "9c38f25f34e",
+    "level": 210,
+    "maxQuality": 8742,
+    "name": {
+      "en": "Heavensegg Soup"
+    },
+    "stars": 3,
+    "suggestedControl": 835,
+    "suggestedCraftsmanship": 870
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1106,
+    "durability": 70,
+    "id": "4e652767741",
+    "level": 210,
+    "maxQuality": 8298,
+    "name": {
+      "en": "Loaghtan Steak"
+    },
+    "stars": 3,
+    "suggestedControl": 820,
+    "suggestedCraftsmanship": 850
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1234,
+    "durability": 70,
+    "id": "d5b3d0104aa",
+    "level": 210,
+    "maxQuality": 8742,
+    "name": {
+      "en": "Pasta Ortolano"
+    },
+    "stars": 3,
+    "suggestedControl": 835,
+    "suggestedCraftsmanship": 870
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1106,
+    "durability": 70,
+    "id": "c88de565d7e",
+    "level": 210,
+    "maxQuality": 8298,
+    "name": {
+      "en": "Peperoncino"
+    },
+    "stars": 3,
+    "suggestedControl": 820,
+    "suggestedCraftsmanship": 850
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1106,
+    "durability": 70,
+    "id": "bb58063bdbc",
+    "level": 210,
+    "maxQuality": 8298,
+    "name": {
+      "en": "Spiced Cider"
+    },
+    "stars": 3,
+    "suggestedControl": 820,
+    "suggestedCraftsmanship": 850
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1476,
+    "durability": 70,
+    "id": "efabdedc728",
+    "level": 250,
+    "maxQuality": 9230,
+    "name": {
+      "en": "Flaugnarde"
+    },
+    "stars": 4,
+    "suggestedControl": 955,
+    "suggestedCraftsmanship": 995
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1476,
+    "durability": 70,
+    "id": "7ad39c544b6",
+    "level": 250,
+    "maxQuality": 9230,
+    "name": {
+      "en": "Heavenly Eggnog"
+    },
+    "stars": 4,
+    "suggestedControl": 955,
+    "suggestedCraftsmanship": 995
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1476,
+    "durability": 70,
+    "id": "55cf10c93d9",
+    "level": 250,
+    "maxQuality": 9230,
+    "name": {
+      "en": "Loaghtan Cordon Bleu"
+    },
+    "stars": 4,
+    "suggestedControl": 955,
+    "suggestedCraftsmanship": 995
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1476,
+    "durability": 70,
+    "id": "96f191cca0b",
+    "level": 250,
+    "maxQuality": 9230,
+    "name": {
+      "en": "Priestly Omelette"
+    },
+    "stars": 4,
+    "suggestedControl": 955,
+    "suggestedCraftsmanship": 995
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1476,
+    "durability": 70,
+    "id": "c9d78580624",
+    "level": 250,
+    "maxQuality": 9230,
+    "name": {
+      "en": "Spaghetti Carbonara"
+    },
+    "stars": 4,
+    "suggestedControl": 955,
+    "suggestedCraftsmanship": 995
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1476,
+    "durability": 70,
+    "id": "53022bf2c76",
+    "level": 250,
+    "maxQuality": 9230,
+    "name": {
+      "en": "Spaghetti Pescatore"
+    },
+    "stars": 4,
+    "suggestedControl": 955,
+    "suggestedCraftsmanship": 995
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 1476,
+    "durability": 70,
+    "id": "b12110e1306",
+    "level": 250,
+    "maxQuality": 9230,
+    "name": {
+      "en": "Wildwood Scrambled Eggs"
+    },
+    "stars": 4,
+    "suggestedControl": 955,
+    "suggestedCraftsmanship": 995
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 1116,
+    "durability": 80,
+    "id": "6bfba32c6b9",
+    "level": 255,
+    "maxQuality": 8377,
+    "name": {
+      "en": "Baklava"
+    },
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 1116,
+    "durability": 60,
+    "id": "adbd2f38f7b",
+    "level": 255,
+    "maxQuality": 6701,
+    "name": {
+      "en": "Gold Saucer Consolation Prize"
+    },
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 558,
+    "durability": 60,
+    "id": "68e3468f60f",
+    "level": 255,
+    "maxQuality": 3350,
+    "name": {
+      "en": "Gold Saucer Consolation Prize Component"
+    },
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 558,
+    "durability": 40,
+    "id": "2c803f07109",
+    "level": 255,
+    "maxQuality": 8377,
+    "name": {
+      "en": "Gyr Abanian Flour"
+    },
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 1116,
+    "durability": 80,
+    "id": "44e5c4654a4",
+    "level": 255,
+    "maxQuality": 8377,
+    "name": {
+      "en": "Loquat Juice"
+    },
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 631,
+    "durability": 40,
+    "id": "909cb1a0e24",
+    "level": 265,
+    "maxQuality": 8581,
+    "name": {
+      "en": "Algae Salt"
+    },
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 1263,
+    "durability": 60,
+    "id": "39d3b91a6b9",
+    "level": 265,
+    "maxQuality": 6864,
+    "name": {
+      "en": "Anti-shark Harpoon"
+    },
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 1263,
+    "durability": 80,
+    "id": "26483da2aa7",
+    "level": 265,
+    "maxQuality": 8581,
+    "name": {
+      "en": "Buckwheat Tea"
+    },
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 1263,
+    "durability": 80,
+    "id": "0f383681cff",
+    "level": 265,
+    "maxQuality": 8581,
+    "name": {
+      "en": "Charred Charr"
+    },
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 1263,
+    "durability": 60,
+    "id": "84c3ec72446",
+    "level": 265,
+    "maxQuality": 6864,
+    "name": {
+      "en": "Gyr Abanian Remedies"
+    },
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 631,
+    "durability": 60,
+    "id": "1594c780888",
+    "level": 265,
+    "maxQuality": 3432,
+    "name": {
+      "en": "Gyr Abanian Remedy Components"
+    },
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 631,
+    "durability": 60,
+    "id": "3845ecba812",
+    "level": 265,
+    "maxQuality": 3432,
+    "name": {
+      "en": "Harpoon Components"
+    },
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 1263,
+    "durability": 80,
+    "id": "66d785c3241",
+    "level": 265,
+    "maxQuality": 8581,
+    "name": {
+      "en": "Kasha"
+    },
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 1263,
+    "durability": 60,
+    "id": "08b3d818ce0",
+    "level": 265,
+    "maxQuality": 6864,
+    "name": {
+      "en": "M Tribe Sundries"
+    },
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 631,
+    "durability": 60,
+    "id": "a6ea3ea4759",
+    "level": 265,
+    "maxQuality": 3432,
+    "name": {
+      "en": "M Tribe Sundry Component"
+    },
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 1263,
+    "durability": 80,
+    "id": "71036de795c",
+    "level": 265,
+    "maxQuality": 8581,
+    "name": {
+      "en": "Rarefied Baklava"
+    },
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 1476,
+    "durability": 60,
+    "id": "350c80a20ec",
+    "level": 270,
+    "maxQuality": 7348,
+    "name": {
+      "en": "Coerthan Cold-weather Gear"
+    },
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 738,
+    "durability": 60,
+    "id": "06796154bfd",
+    "level": 270,
+    "maxQuality": 3674,
+    "name": {
+      "en": "Cold-weather Gear Components"
+    },
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 738,
+    "durability": 40,
+    "id": "17bbbb55c3f",
+    "level": 270,
+    "maxQuality": 9186,
+    "name": {
+      "en": "Cottonseed Oil"
+    },
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 1033,
+    "durability": 80,
+    "id": "39a6c5d1c60",
+    "level": 270,
+    "maxQuality": 5052,
+    "name": {
+      "en": "Doman Rice Balls"
+    },
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 1476,
+    "durability": 80,
+    "id": "60470f5df98",
+    "level": 270,
+    "maxQuality": 9186,
+    "name": {
+      "en": "Grilled Turban"
+    },
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 1476,
+    "durability": 80,
+    "id": "78bf3b42bcd",
+    "level": 270,
+    "maxQuality": 9186,
+    "name": {
+      "en": "Popoto Soba"
+    },
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 1476,
+    "durability": 60,
+    "id": "9378a4c4ab5",
+    "level": 270,
+    "maxQuality": 7348,
+    "name": {
+      "en": "Resistance Materiel"
+    },
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 738,
+    "durability": 60,
+    "id": "530e988868b",
+    "level": 270,
+    "maxQuality": 3674,
+    "name": {
+      "en": "Resistance Materiel Component"
+    },
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 1476,
+    "durability": 60,
+    "id": "0435fd0ff07",
+    "level": 270,
+    "maxQuality": 7348,
+    "name": {
+      "en": "Sui-no-Sato Special"
+    },
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 738,
+    "durability": 60,
+    "id": "4f7c03105ea",
+    "level": 270,
+    "maxQuality": 3674,
+    "name": {
+      "en": "Sui-no-Sato Special Components"
+    },
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 793,
+    "durability": 40,
+    "id": "63e2ef929fe",
+    "level": 273,
+    "maxQuality": 9657,
+    "name": {
+      "en": "Beet Sugar"
+    },
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 1586,
+    "durability": 60,
+    "id": "e591efa48be",
+    "level": 273,
+    "maxQuality": 7725,
+    "name": {
+      "en": "Cloud Pearl"
+    },
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 793,
+    "durability": 60,
+    "id": "9bdca8d131a",
+    "level": 273,
+    "maxQuality": 3862,
+    "name": {
+      "en": "Cloud Pearl Components"
+    },
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 1586,
+    "durability": 80,
+    "id": "4075976479f",
+    "level": 273,
+    "maxQuality": 9657,
+    "name": {
+      "en": "Crab Croquette"
+    },
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 793,
+    "durability": 40,
+    "id": "61ed2874bcf",
+    "level": 273,
+    "maxQuality": 9657,
+    "name": {
+      "en": "Firm Tofu"
+    },
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 1586,
+    "durability": 80,
+    "id": "ba0265e47a1",
+    "level": 273,
+    "maxQuality": 9657,
+    "name": {
+      "en": "Miso Soup with Tofu"
+    },
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 1586,
+    "durability": 80,
+    "id": "2b18b018855",
+    "level": 273,
+    "maxQuality": 4828,
+    "name": {
+      "en": "Oriental Udon Lunch"
+    },
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 1586,
+    "durability": 80,
+    "id": "9afb0ae354b",
+    "level": 273,
+    "maxQuality": 9657,
+    "name": {
+      "en": "Rarefied Shorlog"
+    },
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 1187,
+    "durability": 80,
+    "id": "14145001e8f",
+    "level": 276,
+    "maxQuality": 5512,
+    "name": {
+      "en": "Doman Udon Broth"
+    },
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 1697,
+    "durability": 80,
+    "id": "cbf8240cc77",
+    "level": 276,
+    "maxQuality": 10023,
+    "name": {
+      "en": "Gameni"
+    },
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 1697,
+    "durability": 80,
+    "id": "978a5af25f2",
+    "level": 276,
+    "maxQuality": 5011,
+    "name": {
+      "en": "Oriental Rice Ball Lunch"
+    },
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 1697,
+    "durability": 80,
+    "id": "9dade2626b6",
+    "level": 276,
+    "maxQuality": 5011,
+    "name": {
+      "en": "Oriental Sushi Lunch"
+    },
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 848,
+    "durability": 40,
+    "id": "c45da3fdacd",
+    "level": 276,
+    "maxQuality": 10023,
+    "name": {
+      "en": "Rice Vinegar"
+    },
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 1697,
+    "durability": 80,
+    "id": "38fc306bc98",
+    "level": 276,
+    "maxQuality": 10023,
+    "name": {
+      "en": "Shorlog"
+    },
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 1697,
+    "durability": 80,
+    "id": "4b7875eeddf",
+    "level": 276,
+    "maxQuality": 10023,
+    "name": {
+      "en": "Sweet and Sour Frogs' Legs"
+    },
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 1808,
+    "durability": 60,
+    "id": "b82595f2379",
+    "level": 279,
+    "maxQuality": 8311,
+    "name": {
+      "en": "Fermented Juice"
+    },
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 1808,
+    "durability": 60,
+    "id": "b91ad49fef8",
+    "level": 279,
+    "maxQuality": 8311,
+    "name": {
+      "en": "Ishgardian Culinary Essentials"
+    },
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 904,
+    "durability": 60,
+    "id": "b73e1525742",
+    "level": 279,
+    "maxQuality": 4155,
+    "name": {
+      "en": "Ishgardian Culinary Materials"
+    },
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 904,
+    "durability": 60,
+    "id": "5767ed6d81b",
+    "level": 279,
+    "maxQuality": 4155,
+    "name": {
+      "en": "Juice Fermenting Supplies"
+    },
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 1808,
+    "durability": 80,
+    "id": "5eb58eddae3",
+    "level": 279,
+    "maxQuality": 10389,
+    "name": {
+      "en": "Nomad Meat Pie"
+    },
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 1808,
+    "durability": 80,
+    "id": "3cc36601612",
+    "level": 279,
+    "maxQuality": 5194,
+    "name": {
+      "en": "Oriental Soba Lunch"
+    },
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 1808,
+    "durability": 80,
+    "id": "dd574c20694",
+    "level": 279,
+    "maxQuality": 10389,
+    "name": {
+      "en": "Rarefied Tempura Platter"
+    },
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 1808,
+    "durability": 80,
+    "id": "e398da70c88",
+    "level": 279,
+    "maxQuality": 10389,
+    "name": {
+      "en": "Steppe Salad"
+    },
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 1808,
+    "durability": 80,
+    "id": "042d51bc5b7",
+    "level": 279,
+    "maxQuality": 10389,
+    "name": {
+      "en": "Tempura Platter"
+    },
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 1808,
+    "durability": 80,
+    "id": "218e2c276f0",
+    "level": 279,
+    "maxQuality": 10389,
+    "name": {
+      "en": "Warrior's Stew"
+    },
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 959,
+    "durability": 60,
+    "id": "377413280b7",
+    "level": 282,
+    "maxQuality": 4302,
+    "name": {
+      "en": "Decorative Tavern Furnishing Materials"
+    },
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 1919,
+    "durability": 80,
+    "id": "f71d83754cc",
+    "level": 282,
+    "maxQuality": 10755,
+    "name": {
+      "en": "Egg Foo Young"
+    },
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 1919,
+    "durability": 80,
+    "id": "0ea737a00f2",
+    "level": 282,
+    "maxQuality": 10755,
+    "name": {
+      "en": "Fish Stew"
+    },
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 1919,
+    "durability": 60,
+    "id": "6cc452f77f4",
+    "level": 282,
+    "maxQuality": 8604,
+    "name": {
+      "en": "Hard Place Decorative Furnishings"
+    },
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 1919,
+    "durability": 80,
+    "id": "ee69513bfd5",
+    "level": 282,
+    "maxQuality": 10755,
+    "name": {
+      "en": "Persimmon Pudding"
+    },
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 1919,
+    "durability": 60,
+    "id": "c9824d0c561",
+    "level": 282,
+    "maxQuality": 8604,
+    "name": {
+      "en": "Signature Buuz Cookware"
+    },
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 959,
+    "durability": 60,
+    "id": "2b2002a75cb",
+    "level": 282,
+    "maxQuality": 4302,
+    "name": {
+      "en": "Signature Buuz Cookware Materials"
+    },
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 2029,
+    "durability": 60,
+    "id": "c1a3f033a6d",
+    "level": 285,
+    "maxQuality": 8896,
+    "name": {
+      "en": "Arkhi Brewing Set"
+    },
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 1014,
+    "durability": 60,
+    "id": "a3a21503397",
+    "level": 285,
+    "maxQuality": 4448,
+    "name": {
+      "en": "Arkhi Brewing Vat Materials"
+    },
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 2029,
+    "durability": 80,
+    "id": "60d20c20acc",
+    "level": 285,
+    "maxQuality": 11121,
+    "name": {
+      "en": "Boiled Amberjack Head"
+    },
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 2029,
+    "durability": 80,
+    "id": "7a56f677852",
+    "level": 285,
+    "maxQuality": 11121,
+    "name": {
+      "en": "Doman Tea"
+    },
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 1420,
+    "durability": 80,
+    "id": "ac19a8af69f",
+    "level": 285,
+    "maxQuality": 6116,
+    "name": {
+      "en": "Nigiri-zushi"
+    },
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 2029,
+    "durability": 80,
+    "id": "5bc70348189",
+    "level": 285,
+    "maxQuality": 11121,
+    "name": {
+      "en": "Onigara-yaki"
+    },
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 2029,
+    "durability": 80,
+    "id": "79984dbf50a",
+    "level": 285,
+    "maxQuality": 11121,
+    "name": {
+      "en": "Rarefied Persimmon Pudding"
+    },
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 2140,
+    "durability": 80,
+    "id": "a80fe98f44c",
+    "level": 288,
+    "maxQuality": 5745,
+    "name": {
+      "en": "Bread Basket"
+    },
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 2140,
+    "durability": 80,
+    "id": "596510d86e3",
+    "level": 288,
+    "maxQuality": 11490,
+    "name": {
+      "en": "Chirashi-zushi"
+    },
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 2140,
+    "durability": 80,
+    "id": "d918084eeaf",
+    "level": 288,
+    "maxQuality": 11490,
+    "name": {
+      "en": "Jerked Jhammel"
+    },
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 2140,
+    "durability": 80,
+    "id": "25a041a891d",
+    "level": 288,
+    "maxQuality": 11490,
+    "name": {
+      "en": "Miso Dengaku"
+    },
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2103,
+    "durability": 35,
+    "id": "1f1a8a4a7d8",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Armament Repair Kit"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 70,
+    "id": "804f55dbfb2",
+    "level": 290,
+    "maxQuality": 15843,
+    "name": {
+      "en": "Automaton Repair Component"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2546,
+    "durability": 70,
+    "id": "659a5316c77",
+    "level": 290,
+    "maxQuality": 17017,
+    "name": {
+      "en": "Automaton Worker Supplies"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2103,
+    "durability": 35,
+    "id": "ec250bfd692",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Axle Component"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 70,
+    "id": "db81568f3ca",
+    "level": 290,
+    "maxQuality": 15843,
+    "name": {
+      "en": "Bespoke Barter Item"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2435,
+    "durability": 70,
+    "id": "774ebfa71b3",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Blueprint Supplies"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2324,
+    "durability": 70,
+    "id": "24c72e9a2df",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Brewery Supplies"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2435,
+    "durability": 70,
+    "id": "450202e58cf",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Cask Component"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2435,
+    "durability": 70,
+    "id": "d4e730e6207",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Cooling Device Component"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2103,
+    "durability": 35,
+    "id": "65dfa39bc49",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Core Tank Component"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2435,
+    "durability": 70,
+    "id": "a31e4cfe8ab",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Crystal Cannon Supplies"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1549,
+    "durability": 80,
+    "id": "296875354ed",
+    "level": 290,
+    "maxQuality": 6454,
+    "name": {
+      "en": "Doman Sukiyaki"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1549,
+    "durability": 80,
+    "id": "dedd55ea121",
+    "level": 290,
+    "maxQuality": 6454,
+    "name": {
+      "en": "Edible Antidote"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 70,
+    "id": "8762253dbe2",
+    "level": 290,
+    "maxQuality": 15843,
+    "name": {
+      "en": "Engine Component"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 70,
+    "id": "ae596dbebdc",
+    "level": 290,
+    "maxQuality": 15843,
+    "name": {
+      "en": "Experimental Plating Component"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2103,
+    "durability": 35,
+    "id": "fb7cd570fd8",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Eye-catching Custom Option"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2103,
+    "durability": 35,
+    "id": "6d2f8242f94",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Filtration Supplies"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1549,
+    "durability": 60,
+    "id": "c27d73e4ed5",
+    "level": 290,
+    "maxQuality": 9388,
+    "name": {
+      "en": "Flyer Printing Set"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 60,
+    "id": "9ae04b72c44",
+    "level": 290,
+    "maxQuality": 32860,
+    "name": {
+      "en": "Grade 2 Skybuilders' All-purpose Infusion"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 60,
+    "id": "6d4dab94075",
+    "level": 290,
+    "maxQuality": 32860,
+    "name": {
+      "en": "Grade 3 Skybuilders' All-purpose Infusion"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 60,
+    "id": "4aff96a3a54",
+    "level": 290,
+    "maxQuality": 32860,
+    "name": {
+      "en": "Grade 4 Skybuilders' All-purpose Infusion"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2435,
+    "durability": 70,
+    "id": "ea37c2cb8f0",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Grooming Kit"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2103,
+    "durability": 35,
+    "id": "1d6fde061f7",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Heat-resistant Component"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 80,
+    "id": "d9b341e76e1",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Jhammel Moussaka"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2103,
+    "durability": 35,
+    "id": "e72eaee6a60",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Low-profile Custom Option"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 80,
+    "id": "b7db6864c82",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Rarefied Chirashi-zushi"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 60,
+    "id": "6fb9392e26d",
+    "level": 290,
+    "maxQuality": 32860,
+    "name": {
+      "en": "Skybuilders' All-purpose Infusion"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 80,
+    "id": "fd759b23a62",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Steamed Grouper"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2103,
+    "durability": 35,
+    "id": "d1200050c4a",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Steel Plate Component"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 80,
+    "id": "c7b2bd171a5",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Stewed River Bream"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 70,
+    "id": "4c4975b11a6",
+    "level": 290,
+    "maxQuality": 15843,
+    "name": {
+      "en": "Tavern Materials"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2103,
+    "durability": 35,
+    "id": "669e83d889a",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Test-fire Target Dummy"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 70,
+    "id": "bf240e5e4be",
+    "level": 290,
+    "maxQuality": 15843,
+    "name": {
+      "en": "Unfailing Eye Opener"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2546,
+    "durability": 70,
+    "id": "42258959fb8",
+    "level": 290,
+    "maxQuality": 16430,
+    "name": {
+      "en": "Workshop Expansion Supplies"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2214,
+    "durability": 70,
+    "id": "25bffc2484a",
+    "level": 290,
+    "maxQuality": 11736,
+    "name": {
+      "en": "Workshop Supplies"
+    },
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2361,
+    "durability": 70,
+    "id": "73d6ee69d4d",
+    "level": 300,
+    "maxQuality": 11960,
+    "name": {
+      "en": "Jellied Compote"
+    },
+    "stars": 1,
+    "suggestedControl": 1080,
+    "suggestedCraftsmanship": 1100
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2361,
+    "durability": 60,
+    "id": "8cacd17cb23",
+    "level": 300,
+    "maxQuality": 9568,
+    "name": {
+      "en": "Kholusian Cuisine Set"
+    },
+    "stars": 1,
+    "suggestedCraftsmanship": 1100
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2361,
+    "durability": 70,
+    "id": "eb431c9f22e",
+    "level": 300,
+    "maxQuality": 11960,
+    "name": {
+      "en": "Persimmon Leaf Sushi"
+    },
+    "stars": 1,
+    "suggestedControl": 1080,
+    "suggestedCraftsmanship": 1100
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
+    "id": "90caa85b0a2",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "en": "Chawan-mushi"
+    },
+    "stars": 2,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
+    "id": "2d2612b87be",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "en": "Pork Kakuni"
+    },
+    "stars": 2,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
+    "id": "e188dd826aa",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "en": "Pork Stew"
+    },
+    "stars": 2,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
+    "id": "ead5983c956",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "en": "Sermon-worthy Meuniere"
+    },
+    "stars": 2,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2657,
+    "durability": 70,
+    "id": "067bd7548d0",
+    "level": 320,
+    "maxQuality": 12511,
+    "name": {
+      "en": "Steppe Tea"
+    },
+    "stars": 2,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "3987bc93bcf",
+    "level": 350,
+    "maxQuality": 13144,
+    "name": {
+      "en": "Banh Xeo"
+    },
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "653ca63b9a3",
+    "level": 350,
+    "maxQuality": 13144,
+    "name": {
+      "en": "Crimson Cider"
+    },
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "af89ae0f8ff",
+    "level": 350,
+    "maxQuality": 13144,
+    "name": {
+      "en": "Dzo Steak"
+    },
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "135a360b637",
+    "level": 350,
+    "maxQuality": 13144,
+    "name": {
+      "en": "Ema Datshi"
+    },
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "b79c2298b2e",
+    "level": 350,
+    "maxQuality": 13144,
+    "name": {
+      "en": "Futo-maki Roll"
+    },
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "79427f0d115",
+    "level": 350,
+    "maxQuality": 13144,
+    "name": {
+      "en": "Konpeito"
+    },
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "feded5cc244",
+    "level": 350,
+    "maxQuality": 13144,
+    "name": {
+      "en": "Matcha"
+    },
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "eed42f9af1f",
+    "level": 350,
+    "maxQuality": 13144,
+    "name": {
+      "en": "Oden"
+    },
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "8c3ed876d20",
+    "level": 350,
+    "maxQuality": 13144,
+    "name": {
+      "en": "Sauteed Green Leeks"
+    },
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "71b13397719",
+    "level": 350,
+    "maxQuality": 13144,
+    "name": {
+      "en": "Tako-yaki"
+    },
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2760,
+    "durability": 70,
+    "id": "c958cf439df",
+    "level": 350,
+    "maxQuality": 13144,
+    "name": {
+      "en": "Tofu Pancakes"
+    },
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "78df70e292f",
+    "level": 380,
+    "maxQuality": 14267,
+    "name": {
+      "en": "Ginger Salad"
+    },
+    "stars": 4,
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "28ea0dc9a95",
+    "level": 380,
+    "maxQuality": 14267,
+    "name": {
+      "en": "Imam Bayildi"
+    },
+    "stars": 4,
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "b2599e4049c",
+    "level": 380,
+    "maxQuality": 14267,
+    "name": {
+      "en": "Laghman"
+    },
+    "stars": 4,
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "c5ebd1f1b91",
+    "level": 380,
+    "maxQuality": 14267,
+    "name": {
+      "en": "Papanasi"
+    },
+    "stars": 4,
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "420b0ec8049",
+    "level": 380,
+    "maxQuality": 14267,
+    "name": {
+      "en": "Rooibos Tea"
+    },
+    "stars": 4,
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "4ffa2f4f426",
+    "level": 380,
+    "maxQuality": 14267,
+    "name": {
+      "en": "Salmon Muffin"
+    },
+    "stars": 4,
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 2900,
+    "durability": 70,
+    "id": "1906362338b",
+    "level": 380,
+    "maxQuality": 14267,
+    "name": {
+      "en": "Shakshouka"
+    },
+    "stars": 4,
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 3149,
+    "durability": 60,
+    "id": "e46936d8ec6",
+    "level": 390,
+    "maxQuality": 10468,
+    "name": {
+      "en": "Custom Gathering Tool Components"
+    },
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1574,
+    "durability": 40,
+    "id": "0ec81dc781b",
+    "level": 390,
+    "maxQuality": 13086,
+    "name": {
+      "en": "Frantoio Oil"
+    },
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 3149,
+    "durability": 80,
+    "id": "2b8f13e2d51",
+    "level": 390,
+    "maxQuality": 13086,
+    "name": {
+      "en": "Grilled Rail"
+    },
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 3149,
+    "durability": 60,
+    "id": "09516d46909",
+    "level": 390,
+    "maxQuality": 10468,
+    "name": {
+      "en": "Honeybee Trappings"
+    },
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 3149,
+    "durability": 80,
+    "id": "b17c92939a2",
+    "level": 390,
+    "maxQuality": 13086,
+    "name": {
+      "en": "Purple Carrot Juice"
+    },
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 3248,
+    "durability": 60,
+    "id": "f27d9fc6a3f",
+    "level": 395,
+    "maxQuality": 10928,
+    "name": {
+      "en": "Airship Fittings"
+    },
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 3248,
+    "durability": 80,
+    "id": "d63727da929",
+    "level": 395,
+    "maxQuality": 13660,
+    "name": {
+      "en": "Broad Bean Soup"
+    },
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 3248,
+    "durability": 80,
+    "id": "1732c75b5f9",
+    "level": 395,
+    "maxQuality": 13660,
+    "name": {
+      "en": "Caramels"
+    },
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 3248,
+    "durability": 60,
+    "id": "0767c4fe212",
+    "level": 395,
+    "maxQuality": 10928,
+    "name": {
+      "en": "Custom Weaving Components"
+    },
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 1624,
+    "durability": 40,
+    "id": "2ea05a7b638",
+    "level": 395,
+    "maxQuality": 13660,
+    "name": {
+      "en": "Garden Beet Sugar"
+    },
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 3085,
+    "durability": 80,
+    "id": "a8e0ffcd461",
+    "level": 395,
+    "maxQuality": 12977,
+    "name": {
+      "en": "Rarefied Grilled Rail"
+    },
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 60,
+    "id": "cfae9f350c6",
+    "level": 400,
+    "maxQuality": 11249,
+    "name": {
+      "en": "Beehive Souvenir"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
+    "id": "074a286ae32",
+    "level": 400,
+    "maxQuality": 14062,
+    "name": {
+      "en": "Broad Bean Salad"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 60,
+    "id": "27ba5fce912",
+    "level": 400,
+    "maxQuality": 11249,
+    "name": {
+      "en": "Custom Crafting Tool Components"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
+    "id": "0573f9195b7",
+    "level": 400,
+    "maxQuality": 14062,
+    "name": {
+      "en": "Grilled Platinum Bream"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 2343,
+    "durability": 80,
+    "id": "7e36383a74b",
+    "level": 400,
+    "maxQuality": 7734,
+    "name": {
+      "en": "Nutrient-rich Porridge"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 3348,
+    "durability": 80,
+    "id": "a026d8f4195",
+    "level": 400,
+    "maxQuality": 14062,
+    "name": {
+      "en": "Spaghetti al Nero"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 1674,
+    "durability": 40,
+    "id": "740c34ac18b",
+    "level": 400,
+    "maxQuality": 14062,
+    "name": {
+      "en": "Squid Ink"
+    },
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 3407,
+    "durability": 80,
+    "id": "9ff9712377e",
+    "level": 403,
+    "maxQuality": 14482,
+    "name": {
+      "en": "Baguette"
+    },
+    "suggestedCraftsmanship": 1498
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 3407,
+    "durability": 80,
+    "id": "2f55e1334ec",
+    "level": 403,
+    "maxQuality": 14482,
+    "name": {
+      "en": "Blood Tomato Juice"
+    },
+    "suggestedCraftsmanship": 1498
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 1703,
+    "durability": 40,
+    "id": "75fb4334ee6",
+    "level": 403,
+    "maxQuality": 14482,
+    "name": {
+      "en": "Golden Honey"
+    },
+    "suggestedCraftsmanship": 1498
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 3407,
+    "durability": 60,
+    "id": "b47f06d4756",
+    "level": 403,
+    "maxQuality": 11585,
+    "name": {
+      "en": "Handpicked Culinary Essentials"
+    },
+    "suggestedCraftsmanship": 1498
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 3407,
+    "durability": 80,
+    "id": "e3f0583c3d0",
+    "level": 403,
+    "maxQuality": 14482,
+    "name": {
+      "en": "Pixie Apple Pie"
+    },
+    "suggestedCraftsmanship": 1498
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 3407,
+    "durability": 80,
+    "id": "a9e0cacf5ba",
+    "level": 403,
+    "maxQuality": 14482,
+    "name": {
+      "en": "Rarefied Spaghetti al Nero"
+    },
+    "suggestedCraftsmanship": 1498
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 1703,
+    "durability": 40,
+    "id": "a249b1d7cd9",
+    "level": 403,
+    "maxQuality": 14482,
+    "name": {
+      "en": "Upland Wheat Flour"
+    },
+    "suggestedCraftsmanship": 1498
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 3467,
+    "durability": 80,
+    "id": "ccb9e0524e5",
+    "level": 406,
+    "maxQuality": 14902,
+    "name": {
+      "en": "Blood Tomato Salad"
+    },
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 2426,
+    "durability": 80,
+    "id": "54812405906",
+    "level": 406,
+    "maxQuality": 8196,
+    "name": {
+      "en": "Fortifying Soup"
+    },
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 3467,
+    "durability": 80,
+    "id": "f36c61f6234",
+    "level": 406,
+    "maxQuality": 14902,
+    "name": {
+      "en": "Mushroom Saute"
+    },
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 1733,
+    "durability": 40,
+    "id": "f643e83f867",
+    "level": 406,
+    "maxQuality": 14902,
+    "name": {
+      "en": "Night Vinegar"
+    },
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 3467,
+    "durability": 80,
+    "id": "eae4cbf3b11",
+    "level": 406,
+    "maxQuality": 14902,
+    "name": {
+      "en": "Nut Bake"
+    },
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 2426,
+    "durability": 80,
+    "id": "6584d782e92",
+    "level": 406,
+    "maxQuality": 8196,
+    "name": {
+      "en": "Offering of Sweets"
+    },
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 3467,
+    "durability": 60,
+    "id": "66482850c1e",
+    "level": 406,
+    "maxQuality": 11921,
+    "name": {
+      "en": "Printing Essentials"
+    },
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 3526,
+    "durability": 80,
+    "id": "32a9707333c",
+    "level": 409,
+    "maxQuality": 15322,
+    "name": {
+      "en": "Baked Megapiranha"
+    },
+    "suggestedCraftsmanship": 1580
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 3526,
+    "durability": 80,
+    "id": "099a923c144",
+    "level": 409,
+    "maxQuality": 15322,
+    "name": {
+      "en": "Mushroom Skewer"
+    },
+    "suggestedCraftsmanship": 1580
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 3526,
+    "durability": 80,
+    "id": "e63ce22bf53",
+    "level": 409,
+    "maxQuality": 15322,
+    "name": {
+      "en": "Rarefied Popotoes au Gratin"
+    },
+    "suggestedCraftsmanship": 1580
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 3526,
+    "durability": 80,
+    "id": "9cdd4bee8ca",
+    "level": 409,
+    "maxQuality": 15322,
+    "name": {
+      "en": "Roast Ovim"
+    },
+    "suggestedCraftsmanship": 1580
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 3526,
+    "durability": 80,
+    "id": "b64ec1d8310",
+    "level": 409,
+    "maxQuality": 15322,
+    "name": {
+      "en": "Sausage Links"
+    },
+    "suggestedCraftsmanship": 1580
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 3586,
+    "durability": 80,
+    "id": "50b6dbc221b",
+    "level": 412,
+    "maxQuality": 15742,
+    "name": {
+      "en": "Masala Chai"
+    },
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 3586,
+    "durability": 80,
+    "id": "ab0bcc4060c",
+    "level": 412,
+    "maxQuality": 15742,
+    "name": {
+      "en": "Peppered Popotoes"
+    },
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 3586,
+    "durability": 80,
+    "id": "fb405066121",
+    "level": 412,
+    "maxQuality": 15742,
+    "name": {
+      "en": "Popotoes au Gratin"
+    },
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 3645,
+    "durability": 80,
+    "id": "c1d64e2c9bc",
+    "level": 415,
+    "maxQuality": 8081,
+    "name": {
+      "en": "Baker's Stall"
+    },
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 2551,
+    "durability": 80,
+    "id": "693bb3349d3",
+    "level": 415,
+    "maxQuality": 8889,
+    "name": {
+      "en": "Berube Feed"
+    },
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 3645,
+    "durability": 80,
+    "id": "8287556a562",
+    "level": 415,
+    "maxQuality": 8081,
+    "name": {
+      "en": "Butcher's Stall"
+    },
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 3645,
+    "durability": 80,
+    "id": "58d07acd2c8",
+    "level": 415,
+    "maxQuality": 16162,
+    "name": {
+      "en": "Espresso con Panna"
+    },
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 3645,
+    "durability": 80,
+    "id": "260b77da74e",
+    "level": 415,
+    "maxQuality": 8081,
+    "name": {
+      "en": "Fruiterer's Stall"
+    },
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 3645,
+    "durability": 80,
+    "id": "37407bf19f3",
+    "level": 415,
+    "maxQuality": 8081,
+    "name": {
+      "en": "Greengrocer's Stall"
+    },
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 3645,
+    "durability": 80,
+    "id": "d2f45f1b75a",
+    "level": 415,
+    "maxQuality": 16162,
+    "name": {
+      "en": "Mist Spinach Saute"
+    },
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 3645,
+    "durability": 80,
+    "id": "852ed0e74fd",
+    "level": 415,
+    "maxQuality": 8081,
+    "name": {
+      "en": "Oriental Chawanmushi Lunch"
+    },
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 3645,
+    "durability": 80,
+    "id": "06f1b3f3155",
+    "level": 415,
+    "maxQuality": 16162,
+    "name": {
+      "en": "Rarefied Espresso con Panna"
+    },
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 3645,
+    "durability": 80,
+    "id": "2b6b4815218",
+    "level": 415,
+    "maxQuality": 16162,
+    "name": {
+      "en": "Risotto al Nero"
+    },
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 79,
+    "difficulty": 3705,
+    "durability": 80,
+    "id": "bed8eb4c209",
+    "level": 418,
+    "maxQuality": 16582,
+    "name": {
+      "en": "Blood Bouillabaisse"
+    },
+    "suggestedCraftsmanship": 1702
+  },
+  {
+    "baseLevel": 79,
+    "difficulty": 3705,
+    "durability": 80,
+    "id": "b41068fa630",
+    "level": 418,
+    "maxQuality": 16582,
+    "name": {
+      "en": "Coffee Biscuit"
+    },
+    "suggestedCraftsmanship": 1702
+  },
+  {
+    "baseLevel": 79,
+    "difficulty": 3705,
+    "durability": 80,
+    "id": "751d8acec58",
+    "level": 418,
+    "maxQuality": 16582,
+    "name": {
+      "en": "Paella"
+    },
+    "suggestedCraftsmanship": 1702
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "00f01e91218",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "en": "Baked Goods Showcase"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "d7c096b70ec",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "en": "Baker's Show Window"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "4a5ee5bc512",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "en": "Devil's Salad Bowl"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "bdcfda3f64d",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "en": "Giant Beaver Burger Set"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 60,
+    "id": "8d03ba2d848",
+    "level": 430,
+    "maxQuality": 36524,
+    "name": {
+      "en": "Grade 2 Skybuilders' Stew"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 60,
+    "id": "add0cea4195",
+    "level": 430,
+    "maxQuality": 36524,
+    "name": {
+      "en": "Grade 3 Skybuilders' Stew"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 60,
+    "id": "7d60f47ad76",
+    "level": 430,
+    "maxQuality": 36524,
+    "name": {
+      "en": "Grade 4 Skybuilders' Stew"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "571739822d8",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "en": "Grilled Eel Set"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "a8ec6152295",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "en": "Homemade Cookie Set"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "46784771f37",
+    "level": 430,
+    "maxQuality": 18262,
+    "name": {
+      "en": "Jellied Harcot"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "eea749f23b6",
+    "level": 430,
+    "maxQuality": 18262,
+    "name": {
+      "en": "Lemonade"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "2bd24d1a30b",
+    "level": 430,
+    "maxQuality": 18262,
+    "name": {
+      "en": "Oddly Specific Seed Extract"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "8b08c404cde",
+    "level": 430,
+    "maxQuality": 18262,
+    "name": {
+      "en": "Ovim Cordon Bleu"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "9563cfa5b37",
+    "level": 430,
+    "maxQuality": 18262,
+    "name": {
+      "en": "Oysters on the Half Shell"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "384e407173c",
+    "level": 430,
+    "maxQuality": 18262,
+    "name": {
+      "en": "Rarefied Lemonade"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "b328dd2d7f1",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "en": "Shakshouka Pot"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 60,
+    "id": "13a9a966788",
+    "level": 430,
+    "maxQuality": 36524,
+    "name": {
+      "en": "Skybuilders' Stew"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "2e99676cefe",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "en": "Sliced Watermelon"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "23316d482fb",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "en": "Tako-yaki Boat"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3943,
+    "durability": 80,
+    "id": "ee280885240",
+    "level": 430,
+    "maxQuality": 9131,
+    "name": {
+      "en": "The Bismarck"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2760,
+    "durability": 80,
+    "id": "a1201d8d15b",
+    "level": 430,
+    "maxQuality": 10044,
+    "name": {
+      "en": "Zun-style Amaro Feed"
+    },
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4994,
+    "durability": 70,
+    "id": "71edb8d2e6e",
+    "level": 450,
+    "maxQuality": 30413,
+    "name": {
+      "en": "Arros Negre"
+    },
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4560,
+    "durability": 70,
+    "id": "4c2b03250d4",
+    "level": 450,
+    "maxQuality": 28074,
+    "name": {
+      "en": "Creamy Salmon Pasta"
+    },
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4560,
+    "durability": 70,
+    "id": "8eb8c670cb8",
+    "level": 450,
+    "maxQuality": 28074,
+    "name": {
+      "en": "Exquisite Beef Stew"
+    },
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4560,
+    "durability": 70,
+    "id": "c3607967cf8",
+    "level": 450,
+    "maxQuality": 28074,
+    "name": {
+      "en": "King Salmon Meuniere"
+    },
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4560,
+    "durability": 70,
+    "id": "2b833bbf849",
+    "level": 450,
+    "maxQuality": 28074,
+    "name": {
+      "en": "Kukuru Rusk"
+    },
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4560,
+    "durability": 70,
+    "id": "caa0a8d7f43",
+    "level": 450,
+    "maxQuality": 28074,
+    "name": {
+      "en": "Lemon Curd Sachertorte"
+    },
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4994,
+    "durability": 70,
+    "id": "763ec7cf050",
+    "level": 450,
+    "maxQuality": 30413,
+    "name": {
+      "en": "Mejillones al Ajillo"
+    },
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4543,
+    "durability": 70,
+    "id": "1d374634082",
+    "level": 450,
+    "maxQuality": 43590,
+    "name": {
+      "en": "Oddly Specific Oil"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2250
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4343,
+    "durability": 70,
+    "id": "d2edc823c5c",
+    "level": 450,
+    "maxQuality": 23395,
+    "name": {
+      "en": "Oddly Specific Seed Flour"
+    },
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4560,
+    "durability": 70,
+    "id": "c4e2770343e",
+    "level": 450,
+    "maxQuality": 28074,
+    "name": {
+      "en": "Pixieberry Cheesecake"
+    },
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4560,
+    "durability": 70,
+    "id": "674894846cd",
+    "level": 450,
+    "maxQuality": 28074,
+    "name": {
+      "en": "Pixieberry Tea"
+    },
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4560,
+    "durability": 70,
+    "id": "435bdafc1d9",
+    "level": 450,
+    "maxQuality": 28074,
+    "name": {
+      "en": "Popoto Salad"
+    },
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4560,
+    "durability": 70,
+    "id": "57ffbbcf0a3",
+    "level": 450,
+    "maxQuality": 28074,
+    "name": {
+      "en": "Rare Roast Beef"
+    },
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4560,
+    "durability": 70,
+    "id": "7d469e88c28",
+    "level": 450,
+    "maxQuality": 28074,
+    "name": {
+      "en": "Robe Lettuce Salad"
+    },
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "eb03322c9b8",
+    "level": 480,
+    "maxQuality": 46553,
+    "name": {
+      "en": "Chili Crab"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 7414,
+    "durability": 70,
+    "id": "494a7c9a47b",
+    "level": 480,
+    "maxQuality": 46553,
+    "name": {
+      "en": "Crab Cakes"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "70d581915d6",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Farmer's Breakfast"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 9181,
+    "durability": 60,
+    "id": "04638bdf9eb",
+    "level": 480,
+    "maxQuality": 64862,
+    "name": {
+      "en": "Grade 2 Artisanal Skybuilders' Quiche"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "e2a8e6c0bfa",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Herring Pie"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "963ba3ec745",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Honey Croissant"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "2dead451dd9",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Lemon Waffle"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "124466d1c2e",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Mors"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4943,
+    "durability": 70,
+    "id": "e7d9c343ab6",
+    "level": 480,
+    "maxQuality": 51726,
+    "name": {
+      "en": "Oddly Specific Paste"
+    },
+    "stars": 3,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "7238825b07c",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Ovim Meatballs"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "e55afcdf83a",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Pickled Herring"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "593f49572b2",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Sausage and Sauerkraut"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "c439ce635cc",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Silkie Pudding"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 6178,
+    "durability": 70,
+    "id": "d3c624b7d16",
+    "level": 480,
+    "maxQuality": 36208,
+    "name": {
+      "en": "Stuffed Highland Cabbage"
+    },
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 8591,
+    "durability": 70,
+    "id": "0f11bd1fead",
+    "level": 510,
+    "maxQuality": 56662,
+    "name": {
+      "en": "Broad Bean Curry"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 8591,
+    "durability": 70,
+    "id": "b67a0e8fc75",
+    "level": 510,
+    "maxQuality": 56662,
+    "name": {
+      "en": "Chicken Fettuccine"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 8591,
+    "durability": 70,
+    "id": "bb7f8b437be",
+    "level": 510,
+    "maxQuality": 56662,
+    "name": {
+      "en": "Golden Pineapple Juice"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 11126,
+    "durability": 50,
+    "id": "169462f6983",
+    "level": 510,
+    "maxQuality": 82400,
+    "name": {
+      "en": "Grade 3 Artisanal Skybuilders' Luncheon"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 12046,
+    "durability": 55,
+    "id": "154dac07e9c",
+    "level": 510,
+    "maxQuality": 81447,
+    "name": {
+      "en": "Grade 4 Artisanal Skybuilders' Sorbet"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 8591,
+    "durability": 70,
+    "id": "3caaa1f40a1",
+    "level": 510,
+    "maxQuality": 56662,
+    "name": {
+      "en": "Lemon Muffin"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 8591,
+    "durability": 70,
+    "id": "85ec5184db6",
+    "level": 510,
+    "maxQuality": 56662,
+    "name": {
+      "en": "Mist Spinach Quiche"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 10049,
+    "durability": 60,
+    "id": "9f4e48b106e",
+    "level": 510,
+    "maxQuality": 76939,
+    "name": {
+      "en": "Oddly Delicate Shark Oil"
+    },
+    "stars": 4,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 8591,
+    "durability": 70,
+    "id": "88781e82b9c",
+    "level": 510,
+    "maxQuality": 56662,
+    "name": {
+      "en": "Pineapple Salad"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 8591,
+    "durability": 70,
+    "id": "ed556bf0dd4",
+    "level": 510,
+    "maxQuality": 56662,
+    "name": {
+      "en": "Pizza"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 8591,
+    "durability": 70,
+    "id": "96e6dc6650a",
+    "level": 510,
+    "maxQuality": 56662,
+    "name": {
+      "en": "Smoked Chicken"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 8591,
+    "durability": 70,
+    "id": "7204698369a",
+    "level": 510,
+    "maxQuality": 56662,
+    "name": {
+      "en": "Twilight Popoto Salad"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 8591,
+    "durability": 70,
+    "id": "ae6d8b5fa54",
+    "level": 510,
+    "maxQuality": 56662,
+    "name": {
+      "en": "Zefir"
+    },
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  }
+]
